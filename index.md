@@ -9,7 +9,6 @@ layout: home
 
 想要看 PosetMage 的設定書請至 [Handbook](/SettingBook)
 
-副頻道為 LatticeMage
+子品牌為 [LatticeMage](https://wiki.posetmage.com)
 
 連絡我的方式請至 [Contact](/Contact)
-

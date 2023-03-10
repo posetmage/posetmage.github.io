@@ -30,17 +30,7 @@ twitter_username: PosetMage
 github_username:  PosetMage
 settingbook_link: "https://posetmage.com/SettingBook"
 
-
-feed:
-  limit: 20
-  output: true
-  title: "PosetMage"
-  description: "ACGN Lover"
-  author:
-    name: "PosetMage"
-    email: "mail@posetmage.com"
-
-
+favicon: /Icon/posetmage.ico
 
 # Build settings
 theme: minima

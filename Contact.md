@@ -6,15 +6,13 @@ permalink: /Contact/
 
 ### 個人品牌
 * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
-  * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
-  * [PosetMage FB](https://www.facebook.com/posetmage)
-  * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * [PosetMage Twitter](https://twitter.com/posetmage)
+  * [youtube.com/@PosetMage](https://youtube.com/@PosetMage)
+  * [facebook.com/PosetMage](https://www.facebook.com/posetmage)
+  * [twitter.com/PosetMage](https://twitter.com/posetmage)
 * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
-  * [LatticeMage Youtube](https://www.youtube.com/@LatticeMage)
-  * [LatticeMage FB](https://www.facebook.com/LatticeMage)
-  * [LatticeMage Blogger](http://LatticeMage.blogspot.com/)
-  * [LatticeMage Twitter](https://twitter.com/latticemage)
+  * [youtube.com/@LatticeMage](https://youtube.com/@LatticeMage)
+  * [facebook.com/LatticeMage](https://www.facebook.com/LatticeMage)
+  * [twitter.com/LatticeMage](https://twitter.com/LatticeMage)
 * 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
 * [Podcast](https://podcast.posetmage.com)
 

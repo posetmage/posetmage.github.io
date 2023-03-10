@@ -11,13 +11,13 @@ permalink: /about/
 身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://wiki.posetmage.com)。  
 
 ## 作品集
-1. [Siegel Battle企劃書](./Siegel%20Battle/)
+1. [Siegel Battle企劃書](/SettingBook/Siegel%20Battle/)
 2. [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
-3. [幻想世界觀設定書](https://posetmage.github.io)
+3. [幻想世界觀設定書](/SettingBook/)
 4. [遊戲](https://youtu.be/M7fq31j2F1I)
   * 隨機生成地圖的2D platform
 5. 遊戲分析(非本遊戲的競品分析)
-  * [Cult of the Lamb](./CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
+  * [Cult of the Lamb](/SettingBook/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
 
 ## 參加活動經驗
 * Faust Game Jam 2022 Taipei
@@ -36,20 +36,4 @@ permalink: /about/
 有空時會看輕小說、漫畫、大量動畫，媒介只是的載體，所追求的劇情是合理性。  
 也喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......。  
 除此之外也會喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解。  
-身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。  
-* 聯絡方式
-    * Mail: mail@posetmage.com
-    * Discord: posetmage#3649
-    * Telegram: https://t.me/PosetMage
-    * Twitter, IG, LinkedIn, Line: posetmage
-    
-## 個人品牌
-  * 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
-    * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
-    * [PosetMage FB](https://www.facebook.com/posetmage)    
-    * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
-    * [LatticeMage Youtube](https://www.youtube.com/@LatticeMage)
-    * [LatticeMage FB](https://www.facebook.com/LatticeMage)
-    * [LatticeMage Blogger](http://LatticeMage.blogspot.com/)
-  * 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
+身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。

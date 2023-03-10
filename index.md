@@ -1,0 +1,15 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+歡迎來到 PosetMage 的主頁，想要多認識我請到 [About Me](/about)
+
+想要看 PosetMage 的設定書請至 [Handbook](/SettingBook)
+
+副頻道為 LatticeMage
+
+連絡我的方式請至 [Contact](/contact)
+

@@ -5,11 +5,11 @@
 layout: home
 ---
 
-歡迎來到 PosetMage 的主頁，想要多認識我請到 [About Me](/about)
+歡迎來到 PosetMage 的主頁，想要多認識我請到 [About Me](/About)
 
 想要看 PosetMage 的設定書請至 [Handbook](/SettingBook)
 
 副頻道為 LatticeMage
 
-連絡我的方式請至 [Contact](/contact)
+連絡我的方式請至 [Contact](/Contact)
 

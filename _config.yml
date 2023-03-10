@@ -30,7 +30,7 @@ twitter_username: PosetMage
 github_username:  PosetMage
 settingbook_link: "https://posetmage.com/SettingBook"
 
-favicon: "https://posetmage.com/Images/Icon/posetmage.ico"
+favicon: "favicon.ico"
 
 
 defaults:
@@ -52,13 +52,11 @@ feed:
 
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-external-links
   - jekyll-feed
-  - jekyll-seo-tag
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -41,5 +41,4 @@ permalink: /About/
 ## 個人品牌
 * 主品牌為PosetMage，主要是ACGN相關的內容。
 * 子品牌為LatticeMage，主要是各種專業領域相關的文章或影片。
-
-[相關網頁](/Contact)
+* [相關網頁](/Contact)

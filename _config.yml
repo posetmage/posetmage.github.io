@@ -30,8 +30,7 @@ twitter_username: PosetMage
 github_username:  PosetMage
 settingbook_link: "https://posetmage.com/SettingBook"
 
-favicon: "favicon.ico"
-
+site_favicon: favicon.ico
 
 defaults:
   - scope:

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-歡迎來到 PosetMage 的主頁，想要多認識我請到 [About Me](/About)
+歡迎來到 PosetMage 的主頁，想要認識更多請到 [About Me](/About)
 
 想要看 PosetMage 的設定書請至 [Handbook](/SettingBook)
 

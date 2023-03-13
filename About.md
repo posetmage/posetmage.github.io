@@ -39,6 +39,17 @@ permalink: /About/
 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，有時候會學一點unity，為了學unity偶爾會拿leetcode來練C#。
 
 ## 個人品牌
-* 主品牌為PosetMage，主要是ACGN相關的內容。
-* 子品牌為LatticeMage，主要是各種專業領域相關的文章或影片。
-* [相關網頁](/Contact)
+* 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
+  * 主品牌為ACGN相關的內容
+  * [youtube.com/@PosetMage](https://youtube.com/@PosetMage)
+  * [facebook.com/PosetMage](https://www.facebook.com/posetmage)
+  * [twitter.com/PosetMage](https://twitter.com/posetmage)
+* 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
+  * 子品牌主要是各種專業領域相關的文章或影片
+  * [youtube.com/@LatticeMage](https://youtube.com/@LatticeMage)
+  * [facebook.com/LatticeMage](https://www.facebook.com/LatticeMage)
+  * [twitter.com/LatticeMage](https://twitter.com/LatticeMage)
+* 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
+* [Podcast](https://podcast.posetmage.com)
+
+#### [聯絡方式](/Contact)

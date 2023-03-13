@@ -2,6 +2,9 @@
 layout: page
 title: About Me
 permalink: /About/
+redirect_from:
+  - /resume/
+  - /about/
 ---
 
 # <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" />

@@ -2,6 +2,8 @@
 layout: page
 title: Contact
 permalink: /Contact/
+redirect_from:
+  - /contact/
 ---
 
 ## PosetMage / LatticeMage 聯絡方式

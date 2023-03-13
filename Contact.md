@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /Contact/
-permalink: /contact/
 ---
 
 ## PosetMage / LatticeMage 聯絡方式
@@ -22,4 +21,4 @@ permalink: /contact/
   * LatticeMage - 專業項目
 * 課程/教學
 
-## 認識更多請到 [About Me](/about)
+#### 認識更多請到 [About Me](/About)

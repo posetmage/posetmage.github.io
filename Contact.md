@@ -8,7 +8,7 @@ redirect_from:
 
 ## PosetMage / LatticeMage 聯絡方式
 * Mail: mail@posetmage.com
-* Discord:  [posetmage#3649](https://discord.com/invite/3UU5bRdbda)
+* Discord:  [posetmage#3649](https://discord.gg/3UU5bRdbda)
 * Twitter:  [posetmage](https://twitter.com/posetmage)
 * Facebook: [PosetMagic](https://www.facebook.com/posetmagic)
 * Telegram: [PosetMage](https://t.me/PosetMage)

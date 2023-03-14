@@ -12,19 +12,19 @@ layout: default
 身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://wiki.posetmage.com)。  
 
 ## 個人品牌
-* 部落格文章 [Blogger](/Blogger)
-* [Podcast](https://podcast.posetmage.com)
-* 知識庫 [PosetMage Wiki](https://wiki.posetmage.com)
-* 主頻道 <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
+* <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage - 主品牌
   * 主品牌為ACGN相關的內容
+  * 部落格文章 [Blogger](/Blogger)
   * [YT - PosetMage](https://youtube.com/@PosetMage)
   * [FB - PosetMage](https://www.facebook.com/posetmage)
   * [TW - PosetMage](https://twitter.com/posetmage)
-* 副頻道 <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
+* <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage - 子品牌
   * 子品牌主要是各種專業領域相關的文章或影片
   * [YT - LatticeMage](https://youtube.com/@LatticeMage)
   * [FB - LatticeMage](https://www.facebook.com/LatticeMage)
   * [TW - LatticeMage](https://twitter.com/LatticeMage)
+  * [wiki page](https://wiki.posetmage.com)
+  * [Podcast](https://podcast.posetmage.com)
 
 ## 其他內容
 想要認識更多關於我請到 [About Me](/About)

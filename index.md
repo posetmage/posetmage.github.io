@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
 # <img src="/Icon/New/PosetMage_t.png" Height="32" /> About PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" />
@@ -32,6 +32,8 @@ layout: home
 連絡我的方式請至 [Contact](/Contact)
 
 PosetMage 的部落格文章在 [Blogger](/Blogger)
+
+PosetMage 文章分類在 [Tag](/Tag)
 
 想要看 PosetMage 的設定書請至 [SettingBook](/SettingBook)
 

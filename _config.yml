@@ -32,14 +32,6 @@ settingbook_link: "https://posetmage.com/SettingBook"
 
 site_favicon: favicon.ico
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      categories: "uncategorized"
 
 feed:
   title: "PosetMage"
@@ -56,6 +48,7 @@ plugins:
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-category-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.

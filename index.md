@@ -24,7 +24,8 @@ layout: default
   * [FB - LatticeMage](https://www.facebook.com/LatticeMage)
   * [TW - LatticeMage](https://twitter.com/LatticeMage)
   * [wiki page](https://wiki.posetmage.com)
-  * [Podcast](https://podcast.posetmage.com)
+  * [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kY2Q0MDYwYy9wb2RjYXN0L3Jzcw)
+  * Spotigy
 
 ## 其他內容
 想要認識更多關於我請到 [About Me](/About)

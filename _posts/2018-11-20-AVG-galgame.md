@@ -3,6 +3,8 @@ layout: post
 title:  "[AVG] 何謂エロゲー(H-Game)、ギャルゲーム(Galgame)、美少女ゲーム(Bishōjo game)、乙女ゲーム(Otome game)"
 date:   2018-11-20 22:29:12 +0800
 categories: [ACGN, Game]
+permalink: /Blogger/AVG-classify/
+
 ---
 
 1995年日本圈內雜誌上提過，大致上分類如下：

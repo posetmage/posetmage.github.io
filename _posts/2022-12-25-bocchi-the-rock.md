@@ -2,7 +2,7 @@
 layout: post
 title:  "[動畫] 孤獨搖滾實在太好看啦"
 date:   2022-12-25 02:05:04 +0800
-categories: [ACGN, Anime]
+categories: [Anime]
 ---
 
 其實當初會開這部來看不是因為泛式推薦，而是dogsama，一個講遊戲哲學的頻道第一次推動畫，讓我好奇到底多好看XD  

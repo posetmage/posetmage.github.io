@@ -2,7 +2,7 @@
 layout: post
 title:  "[哲學] 追求極致的意義"
 date:   2021-04-06 10:23:01 +0800
-categories: [ACGN]
+categories: [Others]
 ---
 
 奴隸魔術中的世界大部分人等級都偏低

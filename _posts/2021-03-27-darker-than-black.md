@@ -2,7 +2,7 @@
 layout: post
 title:  "[哲學] 黑之契約者"
 date:   2021-03-27 23:09:58 +0800
-categories: [ACGN, Anime]
+categories: [Anime]
 ---
 
 在解決宗教團體那集的論述：

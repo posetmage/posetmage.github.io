@@ -2,7 +2,7 @@
 layout: post
 title:  "[AVG] galgame on steam"
 date:   2020-04-09 07:47:48 +0800
-categories: [ACGN, Game]
+categories: [Game]
 ---
 
 * dualtail社：  

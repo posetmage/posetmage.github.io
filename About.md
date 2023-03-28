@@ -15,10 +15,11 @@ redirect_from:
   * 有時候會學一點unity，偶爾會拿leetcode來練C#
 
 ## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://youtube.com/@LatticeMage) - AI溝通師
+  * [AI魔法師公會](https://discord.gg/Npgce5Sdmn)會長
   * 喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解
   * 喜歡的領域包括腦科學, 演化, 經濟, 哲學, 商業模式, 物理, 科技, 一人團隊, 創業思維, ......
   * 喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......
-  * 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章，
+  * 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章
 
 ## 工作經歷
 * 現任CV工程師，擅長C++, CV演算法

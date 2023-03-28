@@ -13,8 +13,8 @@ layout: default
 
 ## 個人品牌
 想要認識更多關於我請到 [About Me](/About)
-* [DC - AI法師團公會](https://discord.gg/Npgce5Sdmn)
-  * 分享 討論各種AI包括音樂美術文字軟體
+* [DC - AI魔法師公會](https://discord.gg/Npgce5Sdmn)
+  * 分享、討論各種AI包括音樂美術文字軟體
 * <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage - 主品牌
   * 主品牌為ACGN相關的內容
   * 部落格文章 [Blogger](/Blogger)

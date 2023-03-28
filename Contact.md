@@ -6,13 +6,19 @@ redirect_from:
   - /contact/
 ---
 
+
+### [AI法師團公會](https://discord.gg/Npgce5Sdmn)
+  * [統一入口](https://portaly.cc/AIMageGuild)
+  * [FB - AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
+  * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild)
+
 ### PosetMage 聯絡方式
 * Mail: mail@posetmage.com
 * Discord:  [posetmage#3649](https://discord.gg/3UU5bRdbda)
 * Twitter:  [posetmage](https://twitter.com/posetmage)
 * Facebook: [PosetMagic](https://www.facebook.com/posetmagic)
 * Telegram: [PosetMage](https://t.me/PosetMage)
-* Line: [posetmage](https://line.me/ti/p/posetmage)
+* Line:     [posetmage](https://line.me/ti/p/posetmage)
 * LinkedIn: [posetmage](https://www.linkedin.com/in/posetmage/)
 
 ### LatticeMage 聯絡方式

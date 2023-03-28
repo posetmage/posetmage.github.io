@@ -12,7 +12,7 @@ layout: default
 身為遊戲設計師是為了模擬回去之後可能是法則已經改變的世界，必須預演其他可能性，為此儲備大量的[知識領域](https://wiki.posetmage.com)，現任[AI法師團公會](https://discord.gg/rNUGE7fzY8)團長。  
 
 ## 個人品牌
-想要認識更多關於我請到 [About Me](/About)
+想要認識更多關於我請到 [About Me](/About)、聯絡方式請到[Contact](/Contact)
 * [DC - AI魔法師公會](https://discord.gg/rNUGE7fzY8)
   * 分享、討論各種AI包括音樂美術文字軟體
 * <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage - 主品牌

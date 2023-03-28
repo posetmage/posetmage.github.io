@@ -6,7 +6,7 @@ redirect_from:
   - /contact/
 ---
 
-### [AI法師團公會](https://discord.gg/Npgce5Sdmn)
+### [AI法師團公會](https://discord.gg/rNUGE7fzY8)
   * [統一入口](https://portaly.cc/AIMageGuild)
   * [FB - AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
   * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild)

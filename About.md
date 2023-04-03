@@ -7,14 +7,14 @@ redirect_from:
   - /about/
 ---
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/) - 遊戲設計師
+## <img src="/Icon/New/PosetMage_t.png" Height="16" /> [PosetMage](/) - 遊戲設計師
   * 熱愛ACGN，為了創作持續儲備極大量的專業知識領域
   * 喜歡的玩遊戲類型包含 galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
   * (缺點：我會3D暈，所以不常玩3D遊戲，大部分時間都玩2D)
   * 有空時會看輕小說, 漫畫, 大量動畫，媒介只是的載體，所追求的劇情是合理性
   * 有時候會學一點unity，偶爾會拿leetcode來練C#
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://youtube.com/@LatticeMage) - AI溝通師
+## <img src="/Icon/New/QuantumNecro_t.png" Height="16" /> [LatticeMage](https://youtube.com/@LatticeMage) - AI溝通師
   * [AI魔法師公會](https://discord.gg/rNUGE7fzY8)長老
   * 喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解
   * 喜歡的領域包括腦科學, 演化, 經濟, 哲學, 商業模式, 物理, 科技, 一人團隊, 創業思維, ......

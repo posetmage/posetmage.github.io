@@ -2,6 +2,7 @@
 layout: post
 title:  "[OLG] 魔力寶貝 塔羅牌"
 date:   2019-02-02 9:50:19 +0800
+permalink: /posts/2019-02-02-CrossGate Tarot/
 categories: [OLG]
 ---
 

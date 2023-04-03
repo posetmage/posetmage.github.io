@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Tags
-permalink: /Tags/
+title: Categories
+permalink: /Categories/
 redirect_from:
-  - /Tag/
-  - /tag/
-  - /tags/
+  - /categories/
 ---
 
 

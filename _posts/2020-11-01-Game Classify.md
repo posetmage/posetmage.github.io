@@ -44,7 +44,7 @@ ARPG(Action Role Playing Game)：結合動作要素的RPG，通常還是算在RP
 
 ADV/ AVG (Adventure Game)：冒險類遊戲，通常有探索要素
 
-Galgame：大部分是純選項體驗劇情的有聲小說，屬於冒險類範圍，詳細差異可以參考[何謂エロゲー美少女ゲーム、乙女ゲーム](/Blogger/AVG-classify/)
+Galgame：大部分是純選項體驗劇情的有聲小說，屬於冒險類範圍，詳細差異可以參考[何謂エロゲー美少女ゲーム、乙女ゲーム](/posts/AVG-classify/)
 
 Visual Novel：無聲Galgame，當然也是屬於冒險類範圍
 

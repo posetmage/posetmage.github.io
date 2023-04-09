@@ -3,7 +3,7 @@ layout: post
 title:  "[AVG] galgame on steam"
 date:   2020-04-09 07:47:48 +0800
 permalink: /posts/2020-04-09-Galgame-steam/
-categories: [Game]
+categories: [Game, R18]
 ---
 
 * dualtail社：  

@@ -3,7 +3,7 @@ layout: post
 title:  "[設計] 《遊戲設計藝術》一書中錯誤的部分"
 date:   2021-07-24 15:07:15 +0800
 permalink: /posts/2021-07-24-art-game-design/
-categories: [GameDesign]
+categories: [Game Design]
 ---
 
 第三版書中17章，提到遊戲的

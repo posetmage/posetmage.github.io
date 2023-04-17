@@ -7,19 +7,29 @@ redirect_from:
   - /about/
 ---
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/) - 遊戲設計師
-  * 熱愛ACGN，為了創作持續儲備極大量的專業知識領域
-  * 喜歡的玩遊戲類型包含 galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
-  * (缺點：我會3D暈，所以不常玩3D遊戲，大部分時間都玩2D)
-  * 有空時會看輕小說, 漫畫, 大量動畫，媒介只是的載體，所追求的劇情是合理性
-  * 有時候會學一點unity，偶爾會拿leetcode來練C#
+## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/) - Game Designer
+  * Loving ACGN
+  * watching lots of anime, reading many light novel and some comics
+  * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
+    * Drawback: I get motion sickness from 3D games, so I don't play them often. Most of the time, I play 2D games."
+  * learning unity
+  * having setting book
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://youtube.com/@LatticeMage) - AI溝通師
-  * [AI魔法師公會](https://discord.gg/rNUGE7fzY8)長老
-  * 喜歡各種新的領域或知識，會看大量的專業youtuber或各種文件書籍文章，能快速在短時間內建立一定程度的理解，跨領域的知識也帶來對於不同領域知識的獨到見解
-  * 喜歡的領域包括腦科學, 演化, 經濟, 哲學, 商業模式, 物理, 科技, 一人團隊, 創業思維, ......
-  * 喜歡聽音樂，包含古典, 爵士, 搖滾, 前衛, 後搖, 金屬, Djent, ......
-  * 身為C++軟體工程師，閒暇之餘會看一些最新的演講和技術文章
+## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://youtube.com/@LatticeMage) - Well-rounded Expertise
+  * Startups, Economics, Investing, Resilience, One Person Company
+  * Bio, Evo, Brain science
+  * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy.....
+  * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
+  * familiar with algorithm, c++17, 
+
+
+## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)
+  * prompt engineer, how to use chatgpt
+  * AI related hardware such as gpu, nvidia
+  * AI related algorithm such as neural network
+  * AI related software such as stable diffustion
+  * AI related thinking, such as how AI playing go chess, poker
+  * using AI in business or startup
 
 ## 工作經歷
 * 現任CV工程師，擅長C++, CV演算法

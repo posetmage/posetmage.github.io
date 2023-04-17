@@ -23,8 +23,8 @@ redirect_from:
   * familiar with algorithm, c++17, 
 
 
-## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)
-  * prompt engineer, how to use chatgpt
+## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN) - AI Synchronizer
+  * prompt engineer, how to use chatgpt, using AI to create games, novels
   * AI related hardware such as gpu, nvidia
   * AI related algorithm such as neural network
   * AI related software such as stable diffustion

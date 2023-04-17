@@ -15,7 +15,7 @@ redirect_from:
   * learning unity
   * having setting book
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://youtube.com/@LatticeMage) - Well-rounded Expertise
+## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - Well-rounded Expertise
   * Startups, Economics, Investing, Resilience, One Person Company
   * Bio, Evo, Brain science
   * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy.....

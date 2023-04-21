@@ -30,6 +30,7 @@ redirect_from:
 * 有酬/無酬互惠
   * PosetMage - ACGN相關
   * LatticeMage - 專業項目
+  * AIMage - AI相關
 * 課程/教學
 
 #### 認識更多請到 [About Me](/about)

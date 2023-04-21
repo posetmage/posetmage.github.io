@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 ## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/) - Game Designer
-  * Loving ACGN
+  * Loving ACGN, sometimes write [blogger](/blogger)
   * watching lots of anime, reading many light novel and some comics
   * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
-    * Drawback: I get motion sickness from 3D games, so I don't play them often. Most of the time, I play 2D games."
+    * Drawback: play 2D games most of the time due to sickness from 3D games.
   * learning unity
-  * having setting book
+  * write a [setting book](/SettingBook/)
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - Well-rounded Expertise
+## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - Well-rounded Interesting
   * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy.....
   * Startups, Economics, Investing, Resilience, One Person Company
   * Bio, Evo, Brain science

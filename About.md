@@ -21,7 +21,8 @@ redirect_from:
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
 
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - * About LatticeMage
+## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com)
+* About LatticeMage
   * Well-rounded Interesting
   * [wiki page](https://wiki.posetmage.com)
     * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy, Bio, Evo, Brain science.....

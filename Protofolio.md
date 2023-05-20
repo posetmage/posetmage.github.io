@@ -7,7 +7,7 @@ redirect_from:
   - /Resume/
   - /Experience/
   - /experience/
-  - /Protofolio/
+  - /protofolio/
 ---
 
 ## Experience

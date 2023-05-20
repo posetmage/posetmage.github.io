@@ -1,51 +1,48 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /About/
 redirect_from:
-  - /resume/
   - /about/
 ---
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/) - Game Designer
-  * Loving ACGN, sometimes write [blogger](/blogger)
-  * watching lots of anime, reading many light novel and some comics
-  * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
+# PosetMage旗下品牌線
+
+## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/)
+* About PosetMage
+  * Game Designer, learning Unity/Unreal
+  * [Blogger](/blogger)
+    * sharing thoughs about ACGN
+    * watching lots of anime, reading many light novel and some comics
+  * [YT - PosetMage](https://youtube.com/@PosetMage), 
+    * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
     * Drawback: play 2D games most of the time due to sickness from 3D games.
-  * learning unity
-  * write a [setting book](/SettingBook/)
+  * [PosetMage SettingBook](/SettingBook/)
+    * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - Well-rounded Interesting
-  * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy.....
-  * Startups, Economics, Investing, Resilience, One Person Company
-  * Bio, Evo, Brain science
+
+## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com) - * About LatticeMage
+  * Well-rounded Interesting
+  * [wiki page](https://wiki.posetmage.com)
+    * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy, Bio, Evo, Brain science.....
+  * [YT - LatticeMage](https://youtube.com/@LatticeMage)
+    * Startups, Economics, Investing, Resilience, One Person Company
+    * [Google - LatticeMage](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kY2Q0MDYwYy9wb2RjYXN0L3Jzcw)
+    * [Spotify - LatticeMage](https://open.spotify.com/show/0BB2BaoFE3e6PUNmdnrSTs)
   * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
-  * familiar with algorithm, c++17, 
+  * familiar with algorithm, c++17,  
 
 
-## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN) - AI Synchronizer
-  * prompt engineer, how to use chatgpt, using AI to create games, novels
-  * AI related hardware such as gpu, nvidia
-  * AI related algorithm such as neural network
-  * AI related software such as stable diffustion
-  * AI related thinking, such as how AI playing go chess, poker
-  * using AI in business or startup
-
-## Experience
-* CV Engineer with DSP optmization, using C++ and SIMD hardware inst
-* VIVE VR Engineer, familiar GPU optmization, DX11, DX12, HLSL
-* Master Thesis feild is Real-time Global Illumination
-* Faust Game Jam 2022 Taipei, [team product - What the Pool](https://yanagiragi.itch.io/what-the-pool)
-  * position: music, art
-
-
-## Protofolio
-1. [Siegel Battle企劃書](/SettingBook/resume/Siegel%20Battle/)
-2. [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
-3. [幻想世界觀設定書](/SettingBook/)
-4. [遊戲](https://youtu.be/M7fq31j2F1I)
-  * 隨機生成地圖的2D platform
-5. 遊戲分析(非本遊戲的競品分析)
-  * [Cult of the Lamb](/SettingBook/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
-
-## [Contact](/Contact)
+## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)
+* About AIMage
+  * [YT - AIMageGuild](https://youtube.com/@AIMageGuild)
+    * LatticeMage中文版，討論下一個世代的商業模式、一人團隊創業、斜槓藍海策略......
+  * [DC - AI法師團公會](https://discord.gg/rNUGE7fzY8)
+    * 分享、討論各種AI包括音樂美術文字軟體 也可討論其他AI(ex:圍棋)
+  * AI Synchronizer
+    * prompt engineer, how to use chatgpt, using AI to create games, novels
+    * AI related hardware such as gpu, nvidia
+    * AI related algorithm such as neural network
+    * AI related software such as stable diffustion
+    * AI related thinking, such as how AI playing go chess, poker
+    * using AI in business or startup

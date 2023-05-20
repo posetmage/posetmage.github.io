@@ -6,10 +6,10 @@ redirect_from:
   - /contact/
 ---
 
-### [DC群 - AI魔法師公會](https://discord.gg/rNUGE7fzY8)
-  * [protaly.cc](https://portaly.cc/AIMageGuild)
-  * [FB - AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
-  * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild)
+### [AIMageGuild](https://portaly.cc/AIMageGuild)
+* DC:       [AI魔法師公會](https://discord.gg/rNUGE7fzY8)
+* Facebook: [AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
+* Twitter:  [AIMageGuild](https://twitter.com/AIMageGuild)
 
 ### <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 聯絡方式
 * Mail: mail@posetmage.com

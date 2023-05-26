@@ -6,11 +6,6 @@ redirect_from:
   - /contact/
 ---
 
-## [AIMageGuild](https://portaly.cc/AIMageGuild) 聯絡方式
-* DC:       [AI魔法師公會](https://discord.gg/rNUGE7fzY8)
-* Facebook: [AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
-* Twitter:  [AIMageGuild](https://twitter.com/AIMageGuild)
-
 ## <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 聯絡方式
 * Mail: mail@posetmage.com
 * Discord:  [posetmage#3649](https://discord.gg/3UU5bRdbda)
@@ -25,5 +20,9 @@ redirect_from:
 * Facebook: [LatticeMagic](https://www.facebook.com/LatticeMagic)
 * Telegram: [LatticeMage](https://t.me/PosetMage)
 
+## [AIMageGuild](https://portaly.cc/AIMageGuild) 聯絡方式
+* DC:       [AI魔法師公會](https://discord.gg/rNUGE7fzY8)
+* Facebook: [AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
+* Twitter:  [AIMageGuild](https://twitter.com/AIMageGuild)
 
 ## 認識更多請到 [About Me](/about)

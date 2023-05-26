@@ -30,7 +30,7 @@ redirect_from:
     * Startups, Economics, Investing, Resilience, One Person Company
     * Podcast
       * [Google - LatticeMage](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kY2Q0MDYwYy9wb2RjYXN0L3Jzcw)
-      * [Spotify - LatticeMage](https://open.spotify.com/show/0BB2BaoFE3e6PUNmdnrSTs)
+      * [Spotify - LatticeMage](https://podcasters.spotify.com/pod/show/latticemage/)
   * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
   * familiar with algorithm, c++17,  
 
@@ -41,7 +41,7 @@ redirect_from:
     * LatticeMage中文版，討論下一個世代的商業模式、一人團隊創業、斜槓藍海策略......
     * Podcast
       * [Google - AIMageGuild](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZTc0NTMxOC9wb2RjYXN0L3Jzcw)
-      * [Spotify - AIMageGuild](https://open.spotify.com/show/6OH1GSIzsNNyjpbWhltIor)
+      * [Spotify - AIMageGuild](https://podcasters.spotify.com/pod/show/aimageguild/)
   * [DC - AI法師團公會](https://discord.gg/rNUGE7fzY8)
     * 分享、討論各種AI包括音樂美術文字軟體 也可討論其他AI(ex:圍棋)
   * AI Synchronizer

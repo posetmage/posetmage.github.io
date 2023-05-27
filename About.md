@@ -37,11 +37,6 @@ redirect_from:
 
 ## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)
 * About AIMage
-  * [YT - AIMageGuild](https://youtube.com/@AIMageGuild)
-    * LatticeMage中文版，討論下一個世代的商業模式、一人團隊創業、斜槓藍海策略......
-    * Podcast
-      * [Google - AIMageGuild](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kZTc0NTMxOC9wb2RjYXN0L3Jzcw)
-      * [Spotify - AIMageGuild](https://podcasters.spotify.com/pod/show/aimageguild/)
   * [DC - AI法師團公會](https://discord.gg/rNUGE7fzY8)
     * 分享、討論各種AI包括音樂美術文字軟體 也可討論其他AI(ex:圍棋)
   * AI Synchronizer
@@ -51,3 +46,7 @@ redirect_from:
     * AI related software such as stable diffustion
     * AI related thinking, such as how AI playing go chess, poker
     * using AI in business or startup
+  * Short Video
+    * [TikTok - AIMageGuild](https://www.tiktok.com/@aimageguild)
+    * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
+  * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/)

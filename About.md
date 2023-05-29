@@ -53,6 +53,4 @@ redirect_from:
 
 
  ## test
-
- ![Circle Image](/Images/AIMage/LOGO.png){: style="border-radius: 50%;"}  
- ![](/Images/AIMage/LOGO.png)
+<img src="/Images/AIMage/LOGO.png" class="circle-image" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)

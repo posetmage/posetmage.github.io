@@ -35,7 +35,7 @@ redirect_from:
   * familiar with algorithm, c++17,  
 
 
-## <img src="/Images/AIMage/AIMageGuildIcon.png" Height="32" /> [AIMage](https://discord.gg/xHjzATYCfN)
+## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AIMage](https://discord.gg/xHjzATYCfN)
 * About AIMage
   * [DC - AI法師團公會](https://discord.gg/rNUGE7fzY8)
     * 分享、討論各種AI包括音樂美術文字軟體 也可討論其他AI(ex:圍棋)
@@ -54,4 +54,4 @@ redirect_from:
 
  ## test
 
-![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 50%;"}
+

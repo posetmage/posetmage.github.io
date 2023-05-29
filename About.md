@@ -50,8 +50,3 @@ redirect_from:
     * [TikTok - AIMageGuild](https://www.tiktok.com/@aimageguild)
     * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
   * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/)
-
-
- ## test
-
-

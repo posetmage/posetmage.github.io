@@ -25,7 +25,7 @@ Managing my [personal brands](/About).
 * Master's Degree (2016-2018)
   * Thesis field: Real-time Global Illumination.
 
-## Protofolio
+## Portfolio
 * [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/)
 * [Fantasy Setting Book](/SettingBook/)
 * [Music Training with Visualization App Design](https://github.com/posetmage/-app-)

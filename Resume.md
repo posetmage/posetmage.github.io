@@ -8,23 +8,23 @@ redirect_from:
 ---
 
 ## Summary
-Fast learning with various resources or materials.  
-Using AI to support daily work such as productive tools, coding, art, etc.  
-Learning business related concepts such branding, economy, startup, etc.  
-Managing my personal brands.
+Fast learner with various resources and materials.  
+Using AI to support daily work, such as productivity tools, coding, art, etc.  
+Learning business-related concepts such as branding, economy, startups, etc.  
+Managing my personal brand.
 
 ## Experience
 * CV/AI Engineer (2022-2023)
-  * hardware optmization, using py, C++ and SIMD hardware inst
-* Game Designer: System (2022-)
-  * competitive game analysis
-  * game system design
-  * organization tools refractor
+  * Hardware optimization using Python, C++, and SIMD hardware instructions.
+  * Game Designer: System (2022-)
+  * Competitive game analysis.
+  * Game system design.
+  * Refactoring organization tools.
 * VIVE VR Engineer (2018-2021)
-  * optmization with gpu profiling tool , using dx11, dx12, hlsl
-  * using AMD/NV hardware acceleration
-* Master Degree (2016-2018)
-  * thesis feild: Real-time Global Illumination
+  * Optimization with GPU profiling tools using DirectX 11, DirectX 12, and HLSL.
+  * Utilizing AMD/NV hardware acceleration.
+* Master's Degree (2016-2018)
+  * Thesis field: Real-time Global Illumination.
 
 ## Protofolio
 * [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/)
@@ -32,10 +32,10 @@ Managing my personal brands.
 * [Music Traning with Visualization App Design](https://github.com/posetmage/-app-)
 * [AI Support Game Design](/StM4H4/)
 * [Unfinished game](https://youtu.be/M7fq31j2F1I)
-  * 2D platform, using unity3d
+  * 2D platformer, developed with Unity3D.
 * Game Analysis
   * [Cult of the Lamb](/SettingBook/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
 * Faust Game Jam 2022 Taipei, [team product - What the Pool](https://yanagiragi.itch.io/what-the-pool)
-  * position: music, art
+  * Position: music, art
 
 ## [Contact](/Contact)

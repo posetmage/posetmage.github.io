@@ -11,7 +11,7 @@ redirect_from:
 Fast learning with various resources or materials.  
 Using AI to support daily work such as productive tools, coding, art, etc.  
 Learning business related concepts such branding, economy, startup, etc.  
-Familiar with math and computer graphics such as AR/VR/XR.  
+Managing my [personal brands](/about).
 
 ## Experience
 * CV/AI Engineer (2022-2023)
@@ -27,13 +27,13 @@ Familiar with math and computer graphics such as AR/VR/XR.
   * Thesis feild: Real-time Global Illumination
 
 ## Protofolio
-* [Siegel Battle企劃書](/SettingBook/resume/Siegel%20Battle/)
-* [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
-* [幻想世界觀設定書](/SettingBook/)
-* [AI輔助劇本企劃](/StM4H4/)
-* [遊戲](https://youtu.be/M7fq31j2F1I)
-  * 隨機生成地圖的2D platform
-* 遊戲分析(非本遊戲的競品分析)
+* [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/)
+* [Music Traning with Visualization App Design](https://github.com/posetmage/-app-)
+* [Fantasy Setting Book](/SettingBook/)
+* [AI Support Game Design](/StM4H4/)
+* [Unfinished game](https://youtu.be/M7fq31j2F1I)
+  * 2D platform, using unity3d
+* Game Analysis
   * [Cult of the Lamb](/SettingBook/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb/)
 * Faust Game Jam 2022 Taipei, [team product - What the Pool](https://yanagiragi.itch.io/what-the-pool)
   * position: music, art

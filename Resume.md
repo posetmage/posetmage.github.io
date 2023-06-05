@@ -11,7 +11,7 @@ redirect_from:
 Fast learner with various resources and materials.  
 Using AI to support daily work, such as productivity tools, coding, art, etc.  
 Learning business-related concepts such as branding, economy, startups, etc.  
-Managing my personal brand.
+Managing my [personal brands](/About).
 
 ## Experience
 * CV/AI Engineer (2022-2023)

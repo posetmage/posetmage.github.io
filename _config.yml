@@ -21,21 +21,19 @@
 title: PosetMage
 email: mail@posetmage.com
 description: >- # this means to ignore newlines until "baseurl:"
-  See more in About Me. This is PosetMage, loving ACGN.
+   "I do not remember making that decision. This life, it chose me." -- Ezio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: "@PosetMage"
 facebook_username: PosetMage
 twitter_username: PosetMage
 github_username:  PosetMage
-settingbook_link: "https://posetmage.com/SettingBook"
 
 site_favicon: favicon.ico
 
-
 feed:
   title: "PosetMage"
-  description: "PosetMage"
+  description: "AI Synchronizer, loving ACGN"
   author: "PosetMage"
   email: "mail@posetmage.com"
   url: "https://posetmage.com"

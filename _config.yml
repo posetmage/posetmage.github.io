@@ -50,9 +50,7 @@ header_pages:
 
 
 # Build settings
-theme: minima
-skin: dark
-date_format: "%b %-d, %Y"
+theme: midnight
 plugins:
   - jekyll-external-links
   - jekyll-feed

@@ -29,7 +29,7 @@ Managing my personal brand.
 ## Protofolio
 * [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/)
 * [Fantasy Setting Book](/SettingBook/)
-* [Music Traning with Visualization App Design](https://github.com/posetmage/-app-)
+* [Music Training with Visualization App Design](https://github.com/posetmage/-app-)
 * [AI Support Game Design](/StM4H4/)
 * [Unfinished game](https://youtu.be/M7fq31j2F1I)
   * 2D platformer, developed with Unity3D.

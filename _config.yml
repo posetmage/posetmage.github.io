@@ -51,8 +51,8 @@ header_pages:
 
 # Build settings
 theme: minima
-  skin: dark
-  date_format: "%b %-d, %Y"
+skin: dark
+date_format: "%b %-d, %Y"
 plugins:
   - jekyll-external-links
   - jekyll-feed

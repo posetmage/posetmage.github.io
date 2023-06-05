@@ -12,4 +12,9 @@ gem install jekyll bundler
 jekyll new . --force
 ```
 
-## update everything
+## build local
+```
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+```

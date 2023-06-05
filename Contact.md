@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-nav_order: 9
 permalink: /Contact/
 redirect_from:
   - /contact/

@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Blogger
-nav_order: 4
 permalink: /Blogger/
 redirect_from:
   - /blogger/

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Categories
-nav_order: 5
 permalink: /Categories/
 redirect_from:
   - /categories/

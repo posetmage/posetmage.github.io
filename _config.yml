@@ -50,7 +50,11 @@ header_pages:
 
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+
 plugins:
   - jekyll-external-links
   - jekyll-feed

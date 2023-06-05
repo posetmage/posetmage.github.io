@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Protofolio
+nav_order: 2
 permalink: /Protofolio/
 redirect_from:
   - /resume/

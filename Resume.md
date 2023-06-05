@@ -11,20 +11,20 @@ redirect_from:
 Fast learning with various resources or materials.  
 Using AI to support daily work such as productive tools, coding, art, etc.  
 Learning business related concepts such branding, economy, startup, etc.  
-Managing my [personal brands](/about).
+Managing my personal brands.
 
 ## Experience
 * CV/AI Engineer (2022-2023)
-  * hardware optmization, using py,C++ and SIMD hardware inst
-* Game Designer: System (2023-)
-  * Competitive Game Analysis
-  * Game System Design
-  * organization team members
+  * hardware optmization, using py, C++ and SIMD hardware inst
+* Game Designer: System (2022-)
+  * competitive game analysis
+  * game system design
+  * organization tools refractor
 * VIVE VR Engineer (2018-2021)
-  * Optmization with GPU profiling tool , using DX11, DX12, HLSL
+  * optmization with gpu profiling tool , using dx11, dx12, hlsl
   * using AMD/NV hardware acceleration
 * Master Degree (2016-2018)
-  * Thesis feild: Real-time Global Illumination
+  * thesis feild: Real-time Global Illumination
 
 ## Protofolio
 * [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/)

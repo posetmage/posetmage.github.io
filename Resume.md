@@ -15,6 +15,7 @@ Fast learning with various resources or materials.
 
 ## Experience
 * CV/AI Engineer with hardware optmization, using py,C++ and SIMD hardware inst
+* game designer in a game team
 * VIVE VR Engineer, familiar GPU optmization, DX11, DX12, HLSL
 * Master Thesis feild is Real-time Global Illumination
 

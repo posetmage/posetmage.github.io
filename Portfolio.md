@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Protofolio
+title: Protfolio
 nav_order: 2
-permalink: /Protofolio/
+permalink: /Protfolio/
 redirect_from:
   - /resume/
   - /Resume/
   - /Experience/
   - /experience/
-  - /protofolio/
+  - /protfolio/
 ---
 
 ## Experience
@@ -21,6 +21,7 @@ redirect_from:
 * [Siegel Battle企劃書](/SettingBook/resume/Siegel%20Battle/)
 * [音樂視覺化遊戲app企劃書](https://github.com/posetmage/-app-)
 * [幻想世界觀設定書](/SettingBook/)
+* [AI輔助劇本企劃](/StM4H4/)
 * [遊戲](https://youtu.be/M7fq31j2F1I)
   * 隨機生成地圖的2D platform
 * 遊戲分析(非本遊戲的競品分析)

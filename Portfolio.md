@@ -1,21 +1,22 @@
 ---
 layout: page
-title: Protfolio
+title: Resume
 nav_order: 2
-permalink: /Protfolio/
+permalink: /Resume/
 redirect_from:
   - /resume/
   - /Resume/
-  - /Experience/
-  - /experience/
-  - /protfolio/
 ---
+
+## Summary
+Using AI to support daily work such as productive tools, coding, art.  
+Familiar with math and computer graphics such as AR/VR/XR.
+Fast learning with various resources or materials.
 
 ## Experience
 * CV/AI Engineer with hardware optmization, using py,C++ and SIMD hardware inst
 * VIVE VR Engineer, familiar GPU optmization, DX11, DX12, HLSL
 * Master Thesis feild is Real-time Global Illumination
-
 
 ## Protofolio
 * [Siegel Battle企劃書](/SettingBook/resume/Siegel%20Battle/)

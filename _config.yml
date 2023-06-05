@@ -43,7 +43,6 @@ feed:
 #order
 header_pages:
   - About.md
-  - Portfolio.md
   - Blogger.md
   - Categories.md
   - Contact.md

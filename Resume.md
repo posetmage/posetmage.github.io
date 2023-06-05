@@ -5,7 +5,6 @@ nav_order: 2
 permalink: /Resume/
 redirect_from:
   - /resume/
-  - /Resume/
 ---
 
 ## Summary

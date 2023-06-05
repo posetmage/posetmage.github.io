@@ -16,5 +16,5 @@ jekyll new . --force
 ```
 bundle install
 bundle exec jekyll build
-bundle exec jekyll serve
+bundle exec jekyll serve -P 5000
 ```

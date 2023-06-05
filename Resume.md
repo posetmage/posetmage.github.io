@@ -9,15 +9,23 @@ redirect_from:
 ---
 
 ## Summary
-Using AI to support daily work such as productive tools, coding, art.  
-Familiar with math and computer graphics such as AR/VR/XR.
-Fast learning with various resources or materials.
+Fast learning with various resources or materials.  
+Using AI to support daily work such as productive tools, coding, art, etc.  
+Learning business related concepts such branding, economy, startup, etc.  
+Familiar with math and computer graphics such as AR/VR/XR.  
 
 ## Experience
-* CV/AI Engineer with hardware optmization, using py,C++ and SIMD hardware inst
-* game designer in a game team
-* VIVE VR Engineer, familiar GPU optmization, DX11, DX12, HLSL
-* Master Thesis feild is Real-time Global Illumination
+* CV/AI Engineer (2022-2023)
+  * hardware optmization, using py,C++ and SIMD hardware inst
+* Game Designer: System (2023-)
+  * Competitive Game Analysis
+  * Game System Design
+  * organization team members
+* VIVE VR Engineer (2018-2021)
+  * Optmization with GPU profiling tool , using DX11, DX12, HLSL
+  * using AMD/NV hardware acceleration
+* Master Degree (2016-2018)
+  * Thesis feild: Real-time Global Illumination
 
 ## Protofolio
 * [Siegel Battle企劃書](/SettingBook/resume/Siegel%20Battle/)

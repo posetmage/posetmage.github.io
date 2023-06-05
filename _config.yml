@@ -50,13 +50,13 @@ header_pages:
 
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-category-pages
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

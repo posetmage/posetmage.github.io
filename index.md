@@ -12,6 +12,7 @@ AI魔法師，現任[AI法師團](https://discord.gg/rNUGE7fzY8)團長。
 在這個世界雖然繼續當個[流浪畫手](https://www.facebook.com/LatticeMage)，仍不放棄回到原本的世界，經常在ACGN中尋找各種穿越回去的線索，為此儲備大量的[知識領域](https://wiki.posetmage.com)。  
 最近找了了魔力泉源所以當AI魔法師。  
 
+<div style="height: 30px;"></div>
 
 ### 其他資訊請點右上方各種頁面
 * [聯絡方式](/Contact)

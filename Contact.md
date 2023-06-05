@@ -4,6 +4,8 @@ title: Contact
 permalink: /Contact/
 redirect_from:
   - /contact/
+
+nav_order: 9
 ---
 
 ## <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 聯絡方式

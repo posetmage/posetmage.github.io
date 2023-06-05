@@ -50,7 +50,7 @@ header_pages:
 
 
 # Build settings
-theme: midnight
+theme: hacker
 plugins:
   - jekyll-external-links
   - jekyll-feed

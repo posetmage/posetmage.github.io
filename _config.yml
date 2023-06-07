@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 social:
-  - platform: mail
+  - platform: gmail
     url: mailto:mail@posetmage.com
   - platform: youtube
     url: https://youtube.com/@posetmage

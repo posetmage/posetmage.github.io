@@ -8,6 +8,17 @@ redirect_from:
 
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <style>
+  .contact-form {
+      width: 100%;
+  }
+
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+      width: 100%;
+  }
+  </style>
 </head>
 
 {% include social.html %}

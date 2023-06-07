@@ -18,6 +18,11 @@ redirect_from:
   .contact-form textarea {
       width: 100%;
   }
+
+  .contact-form textarea {
+      height: 400px;
+  }
+
   </style>
 </head>
 

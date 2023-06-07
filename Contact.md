@@ -30,10 +30,9 @@ redirect_from:
 <form action="https://formspree.io/f/xayzglbq" method="POST" class="contact-form">
     <label for="name">What's your name/id?:</label><br>
     <input type="text" id="name" name="name" required><br>
-    <label for="email">How to contact to you?:</label><br>
+    <label for="email">Your email address?:</label><br>
     <input type="email" id="email" name="_replyto" required><br>
-    <label for="message">What you want to say?:</label><br>
+    <label for="message">Anything want to say mto e?:</label><br>
     <textarea id="message" name="message" required></textarea><br>
-    <input type="submit" value="Submit"><br>
-    <label for="message">This is formspree service</label><br>
+    <input type="submit" value="Submit"> powered by formspree service <br>
 </form>

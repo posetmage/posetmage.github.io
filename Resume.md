@@ -15,7 +15,7 @@ Managing my [personal brands](/About).
 ## Experience
 * CV/AI Engineer (2022-2023)
   * Hardware optimization using Python, C++, and SIMD hardware instructions.
-  * Game Designer: System (2022-)
+* Game Designer: System (2022-)
   * Competitive game analysis.
   * Game system design.
   * Refactoring organization tools.

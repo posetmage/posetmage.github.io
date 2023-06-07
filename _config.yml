@@ -58,8 +58,9 @@ feed:
 header_pages:
   - About.md
   - Blogger.md
-  - Categories.md
+  - /SettingBook/
   - Contact.md
+
 
 
 # Build settings

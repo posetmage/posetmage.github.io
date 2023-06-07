@@ -6,4 +6,4 @@ redirect_from:
   - /blogger/
 ---
 
-文章分類請至 [Categories](/Categories)
+想從分類看請至 [Categories](/Categories)

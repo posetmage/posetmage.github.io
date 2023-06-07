@@ -20,7 +20,7 @@ redirect_from:
   }
 
   .contact-form textarea {
-      height: 400px;
+      height: 200px;
   }
 
   </style>
@@ -35,5 +35,6 @@ redirect_from:
     <input type="email" id="email" name="_replyto" required><br>
     <label for="message">Your Message:</label><br>
     <textarea id="message" name="message" required></textarea><br>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Submit"><br>
+    <label for="message">This is formspree service</label><br>
 </form>

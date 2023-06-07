@@ -6,23 +6,63 @@ redirect_from:
   - /contact/
 ---
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 聯絡方式
-* Mail: mail@posetmage.com
-* Discord:  [posetmage#3649](https://discord.gg/3UU5bRdbda)
-* Twitter:  [posetmage](https://twitter.com/posetmage)
-* Facebook: [PosetMagic](https://www.facebook.com/posetmagic)
-* Telegram: [PosetMage](https://t.me/PosetMage)
-* Line:     [posetmage](https://line.me/ti/p/posetmage)
-* LinkedIn: [posetmage](https://www.linkedin.com/in/posetmage/)
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage 聯絡方式
-* Twitter:  [LatticeMage](https://twitter.com/LatticeMage)
-* Facebook: [LatticeMagic](https://www.facebook.com/LatticeMagic)
-* Telegram: [LatticeMage](https://t.me/PosetMage)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-fVb+MigLk4ZN3YoAXkqO27jPJzuB/HUppmyL4HU+1zvX8M4/0W4WunE2xqT6ZlQQ" crossorigin="anonymous">
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
 
-## [AIMageGuild](https://portaly.cc/AIMageGuild) 聯絡方式
-* DC:       [AI魔法師公會](https://discord.gg/rNUGE7fzY8)
-* Facebook: [AIMageGuild](https://www.facebook.com/groups/ai.mage.guild)
-* Twitter:  [AIMageGuild](https://twitter.com/AIMageGuild)
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
 
-## 認識更多請到 [About Me](/about)
+  th {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<table>
+  <tr>
+    <th>Social Media</th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <td><i class="fas fa-envelope"></i></td>
+    <td>mail@myid</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-youtube"></i></td>
+    <td>yt</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-twitter"></i></td>
+    <td>twitter</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-linkedin"></i></td>
+    <td>linkedin</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-discord"></i></td>
+    <td>dc</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-twitch"></i></td>
+    <td>twitch</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-telegram"></i></td>
+    <td>tg</td>
+  </tr>
+  <tr>
+    <td><i class="fab fa-facebook"></i></td>
+    <td>fb</td>
+  </tr>
+</table>

@@ -28,21 +28,20 @@ url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. 
 social:
   - platform: envelope
     url: mailto:mail@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@posetmage
-  - platform: twitter
-    url: https://twitter.com/posetmage
   - platform: linkedin
     url: https://linkedin.com/in/posetmage
-  - platform: discord
-    url: https://discord.gg/3UU5bRdbda
-  - platform: twitch
-    url: https://twitch.tv/posetmage
-  - platform: telegram
-    url: https://t.me/posetmage
+  - platform: youtube
+    url: https://youtube.com/@posetmage
   - platform: facebook
     url: https://facebook.com/posetmage
-
+  - platform: twitter
+    url: https://twitter.com/posetmage
+  - platform: discord
+    url: https://discord.gg/e9Pxe4qMjV
+  - platform: telegram
+    url: https://t.me/posetmage
+  - platform: twitch
+    url: https://twitch.tv/posetmage
 
 site_favicon: favicon.ico
 

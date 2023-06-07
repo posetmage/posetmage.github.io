@@ -24,10 +24,25 @@ description: >- # this means to ignore newlines until "baseurl:"
    "I do not remember making that decision. This life, it chose me." -- Ezio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_username: "@PosetMage"
-facebook_username: PosetMage
-twitter_username: PosetMage
-github_username:  PosetMage
+
+social:
+  - platform: email
+    url: mailto:mail@posetmage.com
+  - platform: yt
+    url: https://youtube.com/posetmage
+  - platform: twitter
+    url: https://twitter.com/posetmage
+  - platform: linkedin
+    url: https://linkedin.com/in/posetmage
+  - platform: dc
+    url: https://discordapp.com/invite/posetmage
+  - platform: twitch
+    url: https://twitch.tv/posetmage
+  - platform: tg
+    url: https://t.me/posetmage
+  - platform: fb
+    url: https://facebook.com/posetmage
+
 
 site_favicon: favicon.ico
 

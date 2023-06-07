@@ -26,7 +26,7 @@ Managing my [personal brands](/About).
   * Thesis field: Real-time Global Illumination.
 
 ## Portfolio
-* [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle)
+* [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/Designs)
 * [Fantasy Setting Book](/SettingBook)
 * [Music Training with Visualization App Design](https://github.com/posetmage/-app-)
 * [AI Support Game Design](/StM4H4/)

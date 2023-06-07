@@ -34,5 +34,5 @@ redirect_from:
     <input type="email" id="email" name="_replyto" required><br>
     <label for="message">Anything want to say mto e?:</label><br>
     <textarea id="message" name="message" required></textarea><br>
-    <input type="submit" value="Submit"> powered by formspree service <br>
+    <input type="submit" value="Submit"> <p align="right"><i>powered by formspree service</i></p>
 </form>

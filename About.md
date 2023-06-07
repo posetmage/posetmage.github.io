@@ -14,6 +14,8 @@ redirect_from:
 
 我們希望每一位有著探索欲的人，都能成為自己生命中的AI-Mage。透過學習和探索，我們都有可能創造屬於自己的獨特魔法。
 
+(想知道Icon Image的故事請到[Icon Stroy](./SettingBook/Setting/Appendix/PosetMage))
+
 <div style="height: 30px;"></div>
 
 # PosetMage旗下品牌線

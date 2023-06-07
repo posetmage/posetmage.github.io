@@ -2,7 +2,11 @@
     {% for network in site.social %}
         <li>
             <a href="{{ network.url }}">
-                <i class="fab fa-{{ network.platform }}"></i>
+                {% if network.platform == "envelope" %}
+                    <i class="fas fa-{{ network.platform }}"></i>
+                {% else %}
+                    <i class="fab fa-{{ network.platform }}"></i>
+                {% endif %}
             </a>
         </li>
     {% endfor %}

@@ -23,8 +23,7 @@ redirect_from:
 
 {% include social.html %}
 
-
-<form action="https://formspree.io/f/xayzglbq" method="POST">
+<form action="https://formspree.io/f/xayzglbq" method="POST" class="contact-form">
     <label for="name">Your Name:</label><br>
     <input type="text" id="name" name="name" required><br>
     <label for="email">Your Email:</label><br>

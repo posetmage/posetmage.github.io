@@ -26,14 +26,14 @@ Managing my [personal brands](/About).
   * Thesis field: Real-time Global Illumination.
 
 ## Portfolio
-* [Siegel Battle Design](/SettingBook/resume/Siegel%20Battle/Designs)
+* [Siegel Battle Design](/Portfolio/Siegel%20Battle/Designs)
 * [Fantasy Setting Book](/SettingBook)
 * [Music Training with Visualization App Design](https://github.com/posetmage/-app-)
-* [AI Support Game Design](/StM4H4/)
+* [AI Support Game Design](/Portfolio/StM4H4/)
 * [Unfinished game](https://youtu.be/M7fq31j2F1I)
   * 2D platformer, developed with Unity3D.
 * Game Analysis
-  * [Cult of the Lamb](/SettingBook/resume/CompetitiveAnalysis/Cult%20of%20the%20Lamb)
+  * [Cult of the Lamb](/Portfolio/Others/CompetitiveAnalysis/Cult%20of%20the%20Lamb)
 * Faust Game Jam 2022 Taipei, [team product - What the Pool](https://yanagiragi.itch.io/what-the-pool)
   * Position: music, art
 

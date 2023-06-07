@@ -20,7 +20,7 @@ redirect_from:
 
 # PosetMage旗下品牌線
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> [PosetMage](/)
+## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](/)
 * About PosetMage
   * Game Designer, learning Unity/Unreal
   * [Blogger](/blogger)
@@ -33,7 +33,7 @@ redirect_from:
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
 
 
-## <img src="/Icon/New/QuantumNecro_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com)
+## <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com)
 * About LatticeMage
   * Well-rounded Interesting
     * [wiki page](https://wiki.posetmage.com)

@@ -5,7 +5,7 @@ title: ''
 layout: page
 ---
 
-## <img src="/Icon/New/PosetMage_t.png" Height="32" /> PosetMage <img src="/Icon/New/PosetMage_t.png" Height="32" />
+## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage <img src="/Images/Icon/PosetMage_t.png" Height="32" />
 
 AI魔法師，現任[AI法師團](https://discord.gg/rNUGE7fzY8)團長。  
 前世為年齡314的精靈，職業是吟遊詩人與畫家，被卡車撞到之後轉生到這個世界，依稀還記得[原本世界的樣貌](/SettingBook/)。  

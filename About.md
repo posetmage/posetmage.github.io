@@ -23,7 +23,7 @@ redirect_from:
 ## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](/)
 * About PosetMage
   * Game Designer, learning Unity/Unreal
-  * [Blogger](/blogger)
+  * [Blog](/blog)
     * sharing thoughs about ACGN
     * watching lots of anime, reading many light novel and some comics
   * [YT - PosetMage](https://youtube.com/@PosetMage), 

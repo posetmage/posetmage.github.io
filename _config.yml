@@ -57,7 +57,7 @@ feed:
 #order
 header_pages:
   - About.md
-  - Blogger.md
+  - Blog.md
   - HandBook.md
   - Wiki.md
   - Contact.md

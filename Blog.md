@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Blogger
-permalink: /Blogger/
+title: Blog
+permalink: /Blog/
 redirect_from:
-  - /blogger/
+  - /blog/
 ---
 
 想從分類看請至 [Categories](/Categories)

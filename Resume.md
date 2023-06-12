@@ -15,10 +15,11 @@ Managing my [personal brands](/About).
 ## Experience
 * CV/AI Engineer (2022-2023)
   * Hardware optimization using Python, C++, and SIMD hardware instructions.
-* Game Designer: System (2022-)
-  * Competitive game analysis.
-  * Game system design.
+* Game Designer: Game System, PM, (2022-)
   * Refactoring organization tools.
+  * Competitive game analysis.
+  * TA design, marketing aware design.
+  * Game system mechanism design.
 * VIVE VR Engineer (2018-2021)
   * Optimization with GPU profiling tools using DirectX 11, DirectX 12, and HLSL.
   * Utilizing AMD/NV hardware acceleration.

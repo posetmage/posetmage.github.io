@@ -29,6 +29,7 @@ redirect_from:
   * [YT - PosetMage](https://youtube.com/@PosetMage), 
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
     * Drawback: play 2D games most of the time due to sickness from 3D games.
+  * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
   * [PosetMage SettingBook](/SettingBook/)
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
 
@@ -44,7 +45,9 @@ redirect_from:
       * Podcast
         * [Google - LatticeMage](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kY2Q0MDYwYy9wb2RjYXN0L3Jzcw)
         * [Spotify - LatticeMage](https://podcasters.spotify.com/pod/show/latticemage/)
+        * [Apple - LatticeMage](https://podcasts.apple.com/us/podcast/latticemage/id1693061816)
     * [FB - LatticeMage](https://www.facebook.com/latticemage)
+    * DC - LatticeMage#0596
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 
@@ -62,3 +65,4 @@ redirect_from:
   * Short Video
     * [TikTok - AIMageGuild](https://www.tiktok.com/@aimageguild)
     * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
+    * [Reels - LatticeMage](https://www.instagram.com/latticemage/reels/)

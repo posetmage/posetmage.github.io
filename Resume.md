@@ -7,10 +7,12 @@ redirect_from:
 ---
 
 ## Summary
-Fast learner with various resources and materials.  
-Using AI to support daily work, such as productivity tools, coding, art, etc.  
-Learning business-related concepts such as branding, economy, startups, etc.  
-Managing my [personal brands](/About).
+A rapid learner adept at utilizing a myriad of resources and materials to foster personal growth and development. Equipped with extensive knowledge of business-related concepts, including branding, economics, and startup operations.
+
+As a manager of [personal brands](/About), I skillfully employ a range of productivity tools to streamline operations and enhance efficiency. I also harness the power of AI to support my daily tasks, which span from coding and design to content creation.
+
+This multifaceted skill set, paired with my willingness to adapt and learn, makes me a valuable asset in various professional scenarios.
+
 
 ## Experience
 * CV/AI Engineer (2022-2023)

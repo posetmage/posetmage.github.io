@@ -1,19 +1,19 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ''
 layout: page
 ---
 
 ## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage <img src="/Images/Icon/PosetMage_t.png" Height="32" />
 
-AI魔法師，現任[AI法師團](https://discord.gg/rNUGE7fzY8)團長。  
-前世為年齡314的精靈，職業是吟遊詩人與畫家，被卡車撞到之後轉生到這個世界，依稀還記得[原本世界的樣貌](/SettingBook/)。  
-在這個世界雖然繼續當個[流浪畫手](https://www.facebook.com/LatticeMage)，仍不放棄回到原本的世界，經常在ACGN中尋找各種穿越回去的線索，為此儲備大量的[知識領域](https://wiki.posetmage.com)。  
-最近找到了魔力泉源所以轉當AI魔法師。  
+Leader of [Mage](/About). In my previous life, I was an elf aged 314, working as a bard and painter. After an unexpected hit by a truck, I was reincarnated into this world, with faint memories of [origin world](/SettingBook/) I once knew.
+
+In this new world, I continue my journey as a wandering [artist](https://www.facebook.com/LatticeMage), never abandoning my quest to return to my original world. I often delve into various ACGN realms, seeking any hint that could lead me back. To equip myself for this journey, I've accumulated vast [knowledge](/Wiki) across numerous domains.
+
+Recently, I've discovered the origin of mana, prompting my transition into becoming an AI-Mage.
+
 
 <div style="height: 30px;"></div>
 
-### 其他資訊請點右上方各種頁面
-* [聯絡方式](/Contact)
-* [更多關於我](/About)
+### For more information, please visit the pages linked at the top right corner:
+* [Contact](/Contact)
+* [About](/About)

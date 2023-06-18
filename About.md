@@ -6,15 +6,16 @@ redirect_from:
   - /about/
 ---
 
-在劍與魔法的世界裡，魔法不僅是世界的基石，它更是引導無盡可能變化的元素。魔法師(Mage)們必須先理解並學會基礎的魔法之後，才能進一步學習更高階的魔法。這種層次與次序的概念，引入數學上的po-set(partially ordered set)理論，提供了一種嚴謹而系統化的方式去掌握魔法的秘密，學習這套系統的學徒即為PosetMage。
+In a world where swords and sorcery reign supreme, magic is more than the cornerstone of existence—it is the driving force behind boundless possibilities. "Mages" must first understand and master fundamental spells before they can delve into more advanced realms of magic.  
+The concept of progression and hierarchy is akin to the mathematical theory of a partially ordered set, or 'po-set.' This understanding provides a systematic and rigorous approach to unraveling the secrets of magic, and the apprentices who learn this system are known as "PosetMage."
 
-然而，要讓魔法發揮其真正的爆發力，僅有poset還不夠，我們需要引入更深的"Lattice"理論。Lattice是一種特殊的poset，它體現了魔法混用的可能性，如同交織的網格，每一個節點都代表了一種獨特的組合用法。能同時使用不同魔法的魔法師則為LatticeMage。
+However, to unleash the true explosive potential of magic, simply understanding posets is not enough. A deeper exploration of the "Lattice" theory is essential. A lattice is a specialized poset, encapsulating the possibilities of blending magic, much like an interlaced grid where each node represents a unique combination of spells. A mage capable of employing multiple magics simultaneously is called a "LatticeMage."
 
-而集大成者 "All Integration Mage" 能融會貫通舊有魔法，在此之上創新出更為強大咒語的能力，我們稱他們為"AI-Mage"。
+The ultimate mages, referred to as "All Integration Mages" or "AI-Mages," can fully grasp existing spells and innovate more potent ones based on this knowledge.
 
-我們希望每一位有著探索欲的人，都能成為自己生命中的AI-Mage。透過學習和探索，我們都有可能創造屬於自己的獨特魔法。
+We hope that everyone with a zest for exploration can become the AI-Mage of their own life. Through continuous learning and discovery, we all have the potential to conjure our own unique magic.
 
-(想知道Icon Image的緣由請到[Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
+(If you're curious about the origin of the Icon Image, please visit [Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
 
 <div style="height: 30px;"></div>
 
@@ -27,12 +28,12 @@ redirect_from:
     * sharing thoughs about ACGN
     * watching lots of anime, reading many light novel and some comics
   * [YT - PosetMage](https://youtube.com/@PosetMage), 
+    * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
-    * Drawback: play 2D games most of the time due to sickness from 3D games.
-  * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
+    * Drawback: play 2D games most of the time due to sickness dizzy from 3D games
   * [PosetMage SettingBook](/SettingBook/)
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
-
+  * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
 
 ## <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com)
 * About LatticeMage
@@ -51,7 +52,7 @@ redirect_from:
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 
-## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AIMage](https://discord.gg/xHjzATYCfN)
+## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AIMage](https://portaly.cc/AIMageGuild)
 * About AIMage
   * [DC - AIMageGuild](https://discord.gg/rNUGE7fzY8)
     * Share and discuss various AI topics, including music, art, text software, go chess, etc.

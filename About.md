@@ -6,20 +6,19 @@ redirect_from:
   - /about/
 ---
 
-In a world where swords and sorcery reign supreme, magic is more than the cornerstone of existence—it is the driving force behind boundless possibilities. "Mages" must first understand and master fundamental spells before they can delve into more advanced realms of magic.  
-The concept of progression and hierarchy is akin to the mathematical theory of a partially ordered set, or 'po-set.' This understanding provides a systematic and rigorous approach to unraveling the secrets of magic, and the apprentices who learn this system are known as "PosetMage."
+In a world where swords and sorcery reign supreme, magick is not only the essential of the world but also driving unlimited possibilities. "Mages" must first understand fundamental spells before they can delve into more advanced realms of magick.  
+The concept of progression and hierarchy is akin to the mathematical theory of Poset(partially ordered set). This concept provides a systematic to approach the secrets of magick. Who learn this system are known as "PosetMage."
 
-However, to unleash the true explosive potential of magic, simply understanding posets is not enough. A deeper exploration of the "Lattice" theory is essential. A lattice is a specialized poset, encapsulating the possibilities of blending magic, much like an interlaced grid where each node represents a unique combination of spells. A mage capable of employing multiple magics simultaneously is called a "LatticeMage."
+However, to unleash the true potential power of magick, a deeper exploration of the "Lattice" theory is necessary. Lattice is a specialized poset, encapsulating the possibilities of hybrid magick, much like an interlaced grid where each node represents a unique combination to enchant. A mage capable of casting multiple magicks simultaneously is called a "LatticeMage."
 
-The ultimate mages, referred to as "All Integration Mages" or "AI-Mages," can fully grasp existing spells and innovate more potent ones based on this knowledge.
+Master sorcerers, referred to as "All Integration Mages" or "AI-Mages," can fully grasp existing spells and innovate new spell.
 
-We hope that everyone with a zest for exploration can become the AI-Mage of their own life. Through continuous learning and discovery, we all have the potential to conjure our own unique magic.
-
-(If you're curious about the origin of the Icon Image, please visit [Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
+We hope that everyone with a zest for exploration can become the AI-Mage of your own life.  
+(If you're curious about the evolution of the Icon Image, please visit [Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
 
 <div style="height: 30px;"></div>
 
-# PosetMage旗下品牌線
+# PosetMage sub-brands
 
 ## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](/)
 * About PosetMage

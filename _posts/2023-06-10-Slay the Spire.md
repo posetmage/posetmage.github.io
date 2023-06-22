@@ -3,7 +3,7 @@ layout: post
 title:  "[Game] Slay the Spire"
 date:   2023-06-10 19:30:22 +0800
 permalink: /posts/2023-06-10-Slay the Spire/
-categories: [Game,Roguelike]
+tags: [Game,Roguelike]
 ---
 
 這款真的很神 還原了RPG遊戲的邏輯

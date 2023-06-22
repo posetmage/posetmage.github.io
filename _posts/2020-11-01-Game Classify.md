@@ -3,7 +3,7 @@ layout: post
 title:  "[Game] 遊戲請用標籤替代分類"
 date:   2020-11-01 20:48:37 +0800
 permalink: /posts/2020-11-01-Game Classify/
-categories: [Game]
+tags: [Game]
 ---
 
 傳統遊戲類型大方向可分為：

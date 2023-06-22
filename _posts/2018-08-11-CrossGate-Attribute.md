@@ -3,7 +3,7 @@ layout: post
 title:  "[OLG] CrossGate配點歷史"
 date:   2018-08-11 15:33:36 +0800
 permalink: /posts/2018-08-11-CrossGate-Attribute/
-categories: [OLG]
+tags: [OLG]
 ---
 
 魔力寶貝的配點能力表：

@@ -3,7 +3,7 @@ layout: post
 title:  "[OLG] 魔力寶貝 主線劇情(雷)"
 date:   2021-03-25 22:43:13 +0800
 permalink: /posts/2021-03-25-CrossGate-Story/
-categories: [Game,OLG]
+tags: [Game,OLG]
 ---
 
 魔力寶貝劇情真的蠻機車的一整個覽趴火XDDDDDDDD

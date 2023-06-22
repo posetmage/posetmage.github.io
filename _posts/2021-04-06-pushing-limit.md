@@ -3,7 +3,7 @@ layout: post
 title:  "[哲學] 追求極致的意義"
 date:   2021-04-06 10:23:01 +0800
 permalink: /posts/2021-04-06-pushing-limit/
-categories: [Others]
+tags: [Others]
 ---
 
 奴隸魔術中的世界大部分人等級都偏低

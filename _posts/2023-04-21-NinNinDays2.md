@@ -3,7 +3,7 @@ layout: post
 title:  "[AVG] NinNinDays2也太多致敬XD"
 date:   2023-04-21 10:00:00 +0800
 permalink: /posts/2023-04-21-NinNinDays2/
-categories: [Game, R18]
+tags: [Game, R18]
 ---
 
 那個致敬中二病也要談戀愛    有感覺到我老了XD

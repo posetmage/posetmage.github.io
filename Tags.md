@@ -26,7 +26,7 @@ redirect_from:
     {% assign posts = site.tags[tag_name] %}
     {% for post in posts %}
     <article class="archive-item">
-      <h6>{% if forloop.last %}└{% else %}├{% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h6>
+      <h6>\t{% if forloop.last %}└{% else %}├{% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h6>
     </article>
     {% endfor %}
   </div>

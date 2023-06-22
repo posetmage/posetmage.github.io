@@ -7,11 +7,16 @@ redirect_from:
 ---
 
 <style>
-.archive-item h6 {
-  margin: 0;
-  line-height: 1;
-  margin-left: 20px;
-}
+  .archive-item h4 {
+    margin: 1em 0 0; /* Adjust the margin-top value as needed */
+    padding: 0;
+  }
+
+  .archive-item h6 {
+    margin: 0;
+    line-height: 1;
+    margin-left: 20px;
+  }
 </style>
 
 

@@ -8,8 +8,8 @@ redirect_from:
 
 <style>
 .archive-item h6 {
-  margin: 0.5em 0;
-  font-size: 1.2rem;
+  margin: 0;
+  line-height: 1;
 }
 </style>
 

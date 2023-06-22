@@ -26,7 +26,6 @@ redirect_from:
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
 
     <h3 class="tag-head">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>

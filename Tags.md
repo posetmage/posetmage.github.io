@@ -23,12 +23,12 @@ redirect_from:
 
     <h3 class="tag-head">{{ tag_name }}</h3>
     <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[tag_name] %}
+    {% assign posts = site.tags[tag_name] %}
+    {% for post in posts %}
     <article class="archive-item">
-      <h6>├<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h6>
+      <h6>{% if forloop.last %}└{% else %}├{% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h6>
     </article>
     {% endfor %}
-    <h6>└</h6>
   </div>
 {% endfor %}
 </div>

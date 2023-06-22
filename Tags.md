@@ -6,6 +6,14 @@ redirect_from:
   - /tags/
 ---
 
+<style>
+.archive-item h6 {
+  margin: 0.5em 0;
+  font-size: 1.2rem;
+}
+</style>
+
+
 <div id="archives">
 {% for tag in site.tags %}
   <div class="archive-group">

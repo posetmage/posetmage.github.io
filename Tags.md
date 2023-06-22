@@ -9,6 +9,7 @@ redirect_from:
 <style>
   .archive-item h4 {
     margin: 1em 0 0; /* Adjust the margin-top value as needed */
+    line-height: 1;
     padding: 0;
   }
 

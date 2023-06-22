@@ -25,9 +25,10 @@ redirect_from:
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <h6><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h6>
+      <h6>├<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h6>
     </article>
     {% endfor %}
+    <h6>└</h6>
   </div>
 {% endfor %}
 </div>

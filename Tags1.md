@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Tags
-permalink: /Tags/
+permalink: /Tags1/
 redirect_from:
-  - /tags/
+  - /tags1/
 ---
 
 <style>
-  .archive-group .tag-head {
+  .tag-head {
     margin: 1em 0 0; /* Adjust the margin-top value as needed */
     line-height: 1;
     padding: 0;

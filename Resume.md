@@ -29,7 +29,7 @@ This multifaceted skill set, paired with my willingness to adapt and learn, make
   * Thesis field: Real-time Global Illumination.
 
 ## Portfolio
-* [Siegel Battle Design](/Portfolio/Siegel%20Battle/Designs)
+* [Siegel Battle Design](/Portfolio/Siegel%20Battle)
 * [Fantasy Setting Book](/SettingBook)
 * [Music Training with Visualization App Design](https://github.com/posetmage/-app-)
 * [AI Support Game Design](/Portfolio/StM4H4/)

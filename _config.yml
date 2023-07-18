@@ -38,6 +38,8 @@ social:
     url: https://twitter.com/posetmage
   - platform: discord
     url: https://discord.gg/e9Pxe4qMjV
+  - platform: line
+    url: https://line.me/ti/p/Out6J_7uOq
   - platform: telegram
     url: https://t.me/posetmage
   - platform: twitch

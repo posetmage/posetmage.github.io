@@ -24,12 +24,10 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
 * About PosetMage
   * Game Designer, learning Unity/Unreal
   * [Blog](/blog)
+    * [YT - PosetMage](https://youtube.com/@PosetMage), 
     * sharing thoughs about ACGN
-    * watching lots of anime, reading many light novel and some comics
-  * [YT - PosetMage](https://youtube.com/@PosetMage), 
-    * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
+  * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
-    * Drawback: play 2D games most of the time due to sickness dizzy from 3D games
   * [PosetMage SettingBook](/SettingBook/)
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
   * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
@@ -45,7 +43,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
       * Podcast
         * [Google - LatticeMage](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kY2Q0MDYwYy9wb2RjYXN0L3Jzcw)
         * [Spotify - LatticeMage](https://podcasters.spotify.com/pod/show/latticemage/)
-        * [Apple - LatticeMage](https://podcasts.apple.com/us/podcast/latticemage/id1693061816)
+        * [Apple - LatticeMage](https://podcasts.apple.com/tw/podcast/latticemage/id1693061816)
     * [FB - LatticeMage](https://www.facebook.com/latticemage)
     * DC - LatticeMage#0596
   * familiar with algorithm, c++17, python, computer graphics, computer vision
@@ -54,6 +52,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
 ## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://wiki.posetmage.com/AI)
 * About AIMage
     * [Twitter - AIMageGuild](https://www.tiktok.com/@aimageguild)
+    * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
     * Share and discuss various AI topics, including music, art, text software, go chess, etc.
   * AI Synchronizer
     * prompt engineer, how to use chatgpt, using AI to create games, novels
@@ -64,5 +63,3 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
     * using AI in business or startup
   * Short Video
     * [TikTok - AIMageGuild](https://www.tiktok.com/@aimageguild)
-    * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
-    * [Reels - LatticeMage](https://www.instagram.com/latticemage/reels/)

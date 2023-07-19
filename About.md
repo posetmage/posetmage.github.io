@@ -51,9 +51,9 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 
-## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://portaly.cc/AIMageGuild)
+## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://wiki.posetmage.com/AI)
 * About AIMage
-  * [DC - AIMageGuild](https://discord.gg/rNUGE7fzY8)
+    * [Twitter - AIMageGuild](https://www.tiktok.com/@aimageguild)
     * Share and discuss various AI topics, including music, art, text software, go chess, etc.
   * AI Synchronizer
     * prompt engineer, how to use chatgpt, using AI to create games, novels

@@ -51,7 +51,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
 
 ## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://wiki.posetmage.com/AI)
 * About AIMage
-    * [Twitter - AIMageGuild](https://www.tiktok.com/@aimageguild)
+    * [Twitter - AIMageGuild](https://twitter.com/aimageguild)
     * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
     * Share and discuss various AI topics, including music, art, text software, go chess, etc.
   * AI Synchronizer

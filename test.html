@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trigger AWS Lambda</title>
+    <script>
+    function triggerLambda() {
+        const url = 'https://v2uh2lpxh3.execute-api.ap-southeast-2.amazonaws.com/default/SendSurvey';
+        const data = { text: 'Hello World from html' };
+
+        fetch(url, {
+            method: 'POST', 
+            body: JSON.stringify(data), 
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        }).then(response => response.json())
+          .then(data => console.log(data))
+          .catch((error) => {
+            console.error('Error:', error);
+        });
+    }
+    </script>
+</head>
+<body>
+    <button onclick="triggerLambda()">Send Hello World to Lambda</button>
+</body>
+</html>

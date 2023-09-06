@@ -33,10 +33,10 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
     * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
   * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
 
-## <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://wiki.posetmage.com)
+## <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
 * About LatticeMage
   * Well-rounded Interesting
-    * [wiki page](https://wiki.posetmage.com)
+    * [wiki page](https://lattice.posetmage.com)
     * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy, Bio, Evo, Brain science.....
     * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
     * [YT - LatticeMage](https://youtube.com/@LatticeMage)
@@ -49,7 +49,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 
-## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://wiki.posetmage.com/AI)
+## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://lattice.posetmage.com/AI)
 * About AIMage
     * [Twitter - AIMageGuild](https://twitter.com/aimageguild)
     * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)

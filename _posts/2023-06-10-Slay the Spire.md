@@ -18,4 +18,4 @@ boss relic更像人生決策 好處都壞帶著壞處 凡事有一好沒兩好
 
 最強的玩家公認就是[Jorbs](https://www.youtube.com/@Jorbs) 他解釋過用期望值思維去打
 
-期望值的相關文章歡迎去看 https://wiki.posetmage.com/Knowledge/Social%20Science/Economy
+期望值的相關文章歡迎去看 https://lattice.posetmage.com/Knowledge/Social%20Science/Economy

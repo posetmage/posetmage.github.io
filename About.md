@@ -49,10 +49,10 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 
-## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://lattice.posetmage.com/AI)
+## ![Circle Image](/Images/AIMage/LOGO.png){: style="width: 32px; height: 32px; border-radius: 45%;"} [AI-Mage](https://ai.posetmage.com)
 * About AIMage
     * [Twitter - AIMageGuild](https://twitter.com/aimageguild)
-    * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild/shorts)
+    * [YT - AIMageGuild](https://www.youtube.com/@AIMageGuild)
     * Share and discuss various AI topics, including music, art, text software, go chess, etc.
   * AI Synchronizer
     * prompt engineer, how to use chatgpt, using AI to create games, novels
@@ -61,5 +61,3 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
     * AI related software such as stable diffustion
     * AI related thinking, such as how AI playing go chess, poker
     * using AI in business or startup
-  * Short Video
-    * [TikTok - AIMageGuild](https://www.tiktok.com/@aimageguild)

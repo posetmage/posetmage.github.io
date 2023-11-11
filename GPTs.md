@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-* <img src="/Images/GPTs/JP Helper.png" Height="64" /> [Japanese Reading Helper
+* <img src="/Images/GPTs/JP Helper.png" Height="64" /> [Nagi - Japanese Reading Helper
 ](https://chat.openai.com/g/g-RZzIxtfmV-japanese-reading-helper)
 * <img src="/Images/GPTs/Writer.png" Height="64" /> [Navi - Narrative Storytelling Writer](https://chat.openai.com/g/g-NsZTxNrJJ-navi-narrative-storytelling-writer)
 * <img src="/Images/GPTs/Godot 4 Ace.png" Height="64" /> [Godot 4 Ace](https://chat.openai.com/g/g-nnCZZnRxi-godot-4-ace)

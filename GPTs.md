@@ -11,6 +11,10 @@ redirect_from:
 <img src="/Images/GPTs/JP Helper.png" Height="32" /> [Japanese Reading Helper
 ](https://chat.openai.com/g/g-RZzIxtfmV-japanese-reading-helper)
 
+<img src="/Images/GPTs/Writer.png" Height="32" /> [Navi - Narrative Storytelling Writer](https://chat.openai.com/g/g-RZzIxtfmV-japanese-reading-helper)
+
+https://chat.openai.com/g/g-NsZTxNrJJ-navi-narrative-storytelling-writer
+
 <img src="/Images/GPTs/Godot 4 Ace.png" Height="32" /> [Godot 4 Ace](https://chat.openai.com/g/g-nnCZZnRxi-godot-4-ace)
 
 <img src="/Images/GPTs/Growth Hacker.png" Height="32" /> [Growth Hacker](https://chat.openai.com/g/g-SwuB8aCaS-marketing-growth-hacker-and-copywriter)

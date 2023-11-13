@@ -25,7 +25,7 @@ img {
 * <img src="/Images/GPTs/Growth Hacker.png"/> [Marko - Marketing and Business Intelligencer](https://chat.openai.com/g/g-SwuB8aCaS)
 * <img src="/Images/GPTs/Algo Trader.png"/> [Ava - Trader](https://chat.openai.com/g/g-aHxZWz0XT)
 * <img src="/Images/GPTs/Godot 4 Ace.png"/> [Godot 4 Ace](https://chat.openai.com/g/g-nnCZZnRxi)
-* <img src="/Images/GPTs/POM Mentor.png"/> [Elden](https://chat.openai.com/g/g-xd7PcVLWZ)
+* <img src="/Images/GPTs/POM Mentor.png"/> [Elden - Mentor of PosetMage](https://chat.openai.com/g/g-xd7PcVLWZ)
 
 ## Others
 * <img src="/Images/GPTs/黒崎一護.png"/> [黒崎一護](https://chat.openai.com/g/g-rKk4EoP1M) 

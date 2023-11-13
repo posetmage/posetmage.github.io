@@ -8,7 +8,7 @@ redirect_from:
 
 
 <style>
-.img {
+img {
   border-radius: 50%; /* Creates the circle shape */
   width: 64px; /* Width of the image */
   height: 64px; /* Height of the image, should be the same as width */

@@ -23,7 +23,6 @@ img {
 * <img src="/Images/GPTs/Diary.png"/> [Diana - Daily Summerizer](https://chat.openai.com/g/g-Ab8MDH7ew) 
 * <img src="/Images/GPTs/Writer.png"/> [Navi - Narrative Storytelling Writer](https://chat.openai.com/g/g-NsZTxNrJJ)
 * <img src="/Images/GPTs/Growth Hacker.png"/> [Marko - Internet Entrepreneur](https://chat.openai.com/g/g-SwuB8aCaS)
-* <img src="/Images/GPTs/Algo Trader.png"/> [Ava - Trader](https://chat.openai.com/g/g-aHxZWz0XT)
 * <img src="/Images/GPTs/Godot 4 Ace.png"/> [Godot 4 Ace](https://chat.openai.com/g/g-nnCZZnRxi)
 * <img src="/Images/GPTs/POM Mentor.png"/> [Elden - Mentor of PosetMage](https://chat.openai.com/g/g-xd7PcVLWZ)
 

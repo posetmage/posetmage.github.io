@@ -2,7 +2,6 @@
 layout: post
 title:  "[Note] Some concepts inspired by Extra Credits"
 date:   2019-12-14 19:08:42 +0800
-permalink: /posts/2019-12-14-extra credit note/
 tags: [Game Design]
 ---
 

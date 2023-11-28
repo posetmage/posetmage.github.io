@@ -2,7 +2,6 @@
 layout: post
 title:  "[設計] 從訓練AI的思維去討論遊戲平衡性設計"
 date:   2023-04-09 10:00:00 +0800
-permalink: /posts/2023-04-09-balancing-concept-from-AI/
 tags: [Game Design]
 ---
 

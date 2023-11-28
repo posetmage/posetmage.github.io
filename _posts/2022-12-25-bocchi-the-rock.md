@@ -2,7 +2,6 @@
 layout: post
 title:  "[動畫] 孤獨搖滾實在太好看啦"
 date:   2022-12-25 02:05:04 +0800
-permalink: /posts/2022-12-25-bocchi-the-rock/
 tags: [Anime]
 ---
 

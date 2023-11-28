@@ -2,7 +2,6 @@
 layout: post
 title:  "[Game] Slay the Spire"
 date:   2023-06-10 19:30:22 +0800
-permalink: /posts/2023-06-10-Slay the Spire/
 tags: [Game,Roguelike]
 ---
 

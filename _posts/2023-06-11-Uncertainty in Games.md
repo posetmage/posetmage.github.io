@@ -2,7 +2,6 @@
 layout: post
 title:  "[遊戲設計] Uncertainty in Games"
 date:   2023-06-11 10:00:00 +0800
-permalink: /posts/2023-06-11-Uncertainty in Games/
 tags: [Game Design]
 ---
 

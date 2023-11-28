@@ -2,7 +2,6 @@
 layout: post
 title:  "[哲學] 黑之契約者"
 date:   2021-03-27 23:09:58 +0800
-permalink: /posts/2021-03-27-darker-than-black/
 tags: [Anime]
 ---
 

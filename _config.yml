@@ -59,6 +59,7 @@ feed:
 #order
 header_pages:
   - About.md
+  - Media.md
   - Blog.md
   - Tags.md
   - Contact.md
@@ -77,6 +78,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-category-pages
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

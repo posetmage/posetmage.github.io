@@ -39,4 +39,4 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
 
 ## Sub-brands
 * <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
-* <img src="/Images/AIMage/LOGO.png" Height="32" /> [AI-Mage](https://lattice.posetmage.com)
+* <img src="/Images/AIMage/LOGO.png" Height="32" /> [AI-Mage](https://ai.posetmage.com)

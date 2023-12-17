@@ -37,5 +37,4 @@ gem 'jekyll-external-links'
 gem 'jekyll-redirect-from'
 gem "jekyll-category-pages"
 gem 'jekyll-titles-from-headings'
-
-gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-seo-tag'

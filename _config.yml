@@ -80,6 +80,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-seo-tag
 
 
 # Exclude from processing.

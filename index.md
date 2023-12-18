@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# <img src="/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage <img src="/Images/Icon/PosetMage_t.png" Height="32" />
+## <img src="/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage <img src="/Images/Icon/PosetMage_t.png" Height="32" />
 
 Leader of [Mages](/Mages). In my previous life, I was an elf aged 314, working as a bard and painter. After unexpectedly hit by a truck, I was reincarnated into this world, with faint memories of [origin world](/SettingBook/) I once knew.
 

@@ -29,7 +29,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
   * Game Designer, learning Unity/Unreal
   * [Blog](/blog)
     * [YT - PosetMage](https://youtube.com/@PosetMage), 
-    * [Spotify - PosetMage](podcasters.spotify.com/pod/show/posetmage)
+    * [Spotify - PosetMage](https://podcasters.spotify.com/pod/show/posetmage)
     * podcast sharing thoughs about ACGN
   * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......

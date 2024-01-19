@@ -6,10 +6,9 @@ redirect_from:
   - /contact/
 ---
 
-<head>
-  <style>
+<style>
   .contact-form {
-      width: 100%;
+      max-width: 100%;
   }
 
   .contact-form input[type="text"],
@@ -22,8 +21,7 @@ redirect_from:
       height: 200px;
   }
 
-  </style>
-</head>
+</style>
 
 {% include social.html %}
 

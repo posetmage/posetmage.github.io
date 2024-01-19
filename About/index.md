@@ -20,7 +20,7 @@ Master sorcerers, referred to as "All Integration Mages" or "AI-Mages," can full
 We hope that everyone with a zest for exploration can become the AI-Mage of your own life.  
 (If you're curious about the evolution of the Icon Image, please visit [Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
 
-## Media
+## Other Media Platforms
   * Game Designer, learning Unity/Unreal
   * Podcast
     * [YT - PosetMage](https://youtube.com/@PosetMage), 
@@ -28,8 +28,6 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
     * podcast sharing thoughs about ACGN
   * [dailymotion - posetmage](https://www.dailymotion.com/posetmage)
     * playing games such as galgame, Rogue-like, SRPG, Deck-building, RTS, JRPG, CRPG, ARPG, AVG, SLG, ......
-  * [PosetMage SettingBook](/SettingBook/)
-    * [FB - PosetMage](https://www.facebook.com/posetmage), generate small materials
   * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
 
 ## Sub-brands

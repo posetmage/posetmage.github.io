@@ -1,14 +1,7 @@
 ---
-layout: default
-categories: [Blog]
+title: 'Blog'
+layout: classes
+category: Blog
 ---
 
-{% assign filtered_pages = site.pages | where:"categories", page.category %}
-{% assign sorted_pages = filtered_pages | sort: 'date' | reverse %}
-{% for p in sorted_pages %}
-    <li>
-    <a style="font-size: 2em;" href="{{ p.url | relative_url }}">{{ p.title }}</a>
-    {{ p.date | date: "%B %d, %Y" }}
-    <div>{{ p.content | markdownify }}</div>
-    </li>
-{% endfor %}
+see [tags](./Tags)

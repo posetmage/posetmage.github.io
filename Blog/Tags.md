@@ -1,7 +1,25 @@
 ---
-layout: default
-categories: [Blog]
+layout: page
+title: Tags
+permalink: /Tags/
+redirect_from:
+  - /tags/
 ---
+
+<style>
+  .tag-head {
+    margin: 1em 0 0; /* Adjust the margin-top value as needed */
+    line-height: 1;
+    padding: 0;
+  }
+
+  .archive-item h6 {
+    margin: 0;
+    line-height: 1;
+    margin-left: 20px;
+  }
+</style>
+
 
 <div id="archives">
 {% for tag in site.tags %}

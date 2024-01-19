@@ -1,25 +1,8 @@
 ---
-layout: default
-title: Blog
-permalink: /Blog/
-redirect_from:
-  - /blog/
+layout: page
+title: Blogs
 ---
 
-想從分類看請至 [Tags](/Tags)
-<main class="page-content">
-  {{ content }}
+<meta http-equiv="refresh" content="0; url=/Blog/" />
 
-  <h2>文章：</h2>
-  <ul>
-  {% assign filtered_pages = site.pages | where:"categories", page.category %}
-  {% assign sorted_pages = filtered_pages | sort: 'date' | reverse %}
-  {% for p in sorted_pages %}
-      <li>
-        <a style="font-size: 2em;" href="{{ p.url | relative_url }}">{{ p.title }}</a>
-        {{ p.date | date: "%B %d, %Y" }}
-        <div>{{ p.content | markdownify }}</div>
-      </li>
-  {% endfor %}
-  </ul>
-</main>
+## Waiting for loading......

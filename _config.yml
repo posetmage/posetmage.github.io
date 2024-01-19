@@ -60,8 +60,8 @@ feed:
 header_pages:
   - About.md
   - Blog.md
-  - Weekly.md
   - Novel.md
+  - Weekly.md
   - Contact.md
 
 

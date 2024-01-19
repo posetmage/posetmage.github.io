@@ -2,6 +2,7 @@
 layout: post
 title:  "[設計] 從訓練AI的思維去討論遊戲平衡性設計"
 date:   2023-04-09 10:00:00 +0800
+categories: [Blog]
 tags: [Game Design]
 ---
 

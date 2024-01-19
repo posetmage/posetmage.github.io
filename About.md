@@ -27,7 +27,7 @@ We hope that everyone with a zest for exploration can become the AI-Mage of your
 
 ## Media
   * Game Designer, learning Unity/Unreal
-  * [Blog](/blog)
+  * Podcast
     * [YT - PosetMage](https://youtube.com/@PosetMage), 
     * [Spotify - PosetMage](https://podcasters.spotify.com/pod/show/posetmage)
     * podcast sharing thoughs about ACGN

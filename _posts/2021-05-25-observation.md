@@ -2,6 +2,7 @@
 layout: post
 title:  "[哲學] 神不在的星期天 - 什麼是觀測?"
 date:   2021-05-25 16:45:21 +0800
+categories: [Blog]
 tags: [Anime]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "[設計] 《遊戲設計藝術》一書中錯誤的部分"
 date:   2021-07-24 15:07:15 +0800
+categories: [Blog]
 tags: [Game Design]
 ---
 

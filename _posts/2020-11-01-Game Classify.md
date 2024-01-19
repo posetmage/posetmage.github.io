@@ -2,6 +2,7 @@
 layout: post
 title:  "[Game] 遊戲請用標籤替代分類"
 date:   2020-11-01 20:48:37 +0800
+categories: [Blog]
 tags: [Game]
 ---
 

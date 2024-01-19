@@ -2,6 +2,7 @@
 layout: post
 title:  "[AVG] NinNinDays2也太多致敬XD"
 date:   2023-04-21 10:00:00 +0800
+categories: [Blog]
 tags: [Game, R18]
 ---
 

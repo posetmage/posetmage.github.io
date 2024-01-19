@@ -59,9 +59,9 @@ feed:
 #order
 header_pages:
   - About.md
-  - Media.md
   - Blog.md
-  - Tags.md
+  - Weekly.md
+  - Novel.md
   - Contact.md
 
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "[AVG] galgame on steam"
 date:   2020-04-09 07:47:48 +0800
+categories: [Blog]
 tags: [Game, R18]
 ---
 

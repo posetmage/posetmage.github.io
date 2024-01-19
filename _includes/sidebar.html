@@ -1,0 +1,120 @@
+
+<style>
+  .page-container {
+    display: flex;
+    width: 100%;
+  }
+
+  .sidebar {
+    flex: 0 0 6em; /* Fixed width for the sidebar */
+    padding: 1em;
+    overflow: auto;
+    height: 100vh;
+  }
+
+  .page-content {
+    flex-grow: 1; /* Consumes the rest of the space */
+    overflow: auto; /* Enables scrolling if content overflows */
+    word-wrap: break-word; /* Wrap long words */
+    max-width: 90%; /* The width of the sidebar plus its padding */
+  }
+
+
+</style>  
+
+<div class="page-container">
+  <aside class="sidebar" id="outline">
+    <!-- Sidebar content will be loaded here -->
+  </aside>
+
+
+  <main class="page-content">
+    <div class="navigation-links">
+      <div class="prev-link">
+      </div>
+      <div class="next-link">
+      </div>
+    </div>
+
+    <div>
+      <article class="post">
+        {% seo %}
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+    </div>
+
+    <div class="navigation-links">
+      <div class="prev-link">
+      </div>
+      <div class="next-link">
+      </div>
+    </div>
+  </main>
+  
+
+  
+</div>
+
+<style>
+  .navigation-links {
+    display: flex;
+    justify-content: space-between; /* Aligns children to each end */
+    align-items: center; /* Aligns children vertically in the center */
+  }
+
+  /* Optional: Additional styling for individual link containers */
+  .prev-link, .next-link {
+    flex-basis: 50%; /* Gives equal width to both containers */
+    text-align: center; /* Centers the text inside each container */
+  }
+</style>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Function to format the page number to a 4-digit string
+    function formatPageNumber(number) {
+      return number.toString().padStart(4, '0');
+    }
+
+    // Function to get the current page number
+    function getCurrentPageNumber() {
+      const path = window.location.pathname;
+      return parseInt(path.match(/(\d+)\.html$/)[1], 10);
+    }
+
+    // Function to create a link element
+    function createLink(text, pageNumber) {
+      const link = document.createElement('a');
+      link.href = `./${formatPageNumber(pageNumber)}.html`;
+      link.textContent = text;
+      return link;
+    }
+
+    // Function to add a link to elements with a specific class
+    function addLinkToElements(link, className) {
+      const elements = document.querySelectorAll(`.${className}`);
+      elements.forEach(element => {
+        const clone = link.cloneNode(true);
+        element.appendChild(clone);
+      });
+    }
+
+    const currentPageNumber = getCurrentPageNumber();
+
+    // Create and add the 'prev' link if there is a previous page
+    if (currentPageNumber > 1) {
+      const prevLink = createLink('←prev', currentPageNumber - 1);
+      addLinkToElements(prevLink, 'prev-link');
+    }
+
+    // Create and add the 'next' link if there is a next page
+    // Note: Update this condition as per your total page count if needed
+    const nextPageNumber = currentPageNumber + 1;
+    const nextLink = createLink('next→', nextPageNumber);
+    addLinkToElements(nextLink, 'next-link');
+  });
+</script>

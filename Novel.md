@@ -1,5 +1,5 @@
 ---
-title: 'Novels'
+title: Novels
 layout: page
 ---
 

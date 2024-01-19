@@ -1,5 +1,5 @@
 ---
-title: 'Weekly'
+title: Weekly
 layout: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GDPR Privacy Policy on posetmage.com
+title: Privacy Policy on posetmage.com
 permalink: /privacy-policy/
 ---
 

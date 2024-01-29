@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Privacy Policy on posetmage.com
+title: Privacy Policy
 permalink: /privacy-policy/
 ---
-
-# Privacy Policy
 
 Last updated: January 29, 2024
 

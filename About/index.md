@@ -15,11 +15,6 @@ The concept of progression and hierarchy is akin to the mathematical theory of P
 
 However, to unleash the true potential power of magick, a deeper exploration of the "Lattice" theory is necessary. Lattice is a specialized poset, encapsulating the possibilities of hybrid magick, much like an interlaced grid where each node represents a unique combination to enchant. A mage capable of casting multiple magicks simultaneously is called a "LatticeMage."
 
-Master sorcerers, referred to as "All Integration Mages" or "AI-Mages," can fully grasp existing spells and innovate new spell.
-
-We hope that everyone with a zest for exploration can become the AI-Mage of your own life.  
-(If you're curious about the evolution of the Icon Image, please visit [Icon Stroy](/SettingBook/Setting/Appendix/PosetMage))
-
 ## Other Media Platforms
   * Game Designer, learning Unity/Unreal
   * Podcast

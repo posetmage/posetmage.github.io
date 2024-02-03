@@ -1,5 +1,8 @@
+cd _includes
+./upload.bat
+cd ../
 
-cd _shared
+cd _layouts
 ./upload.bat
 cd ../
 

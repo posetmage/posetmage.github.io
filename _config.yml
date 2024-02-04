@@ -20,10 +20,17 @@
 
 title: PosetMage
 email: mail@posetmage.com
-description: >- # this means to ignore newlines until "baseurl:"
-      ACGN Lover
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
+
+
+
+feed:
+  title: PosetMage
+  description: 国士無双 一騎当千
+  author: PosetMage
+  email: mail@posetmage.com
+  url: https://posetmage.com
+  output: true
 
 social:
   - platform: envelope
@@ -42,15 +49,6 @@ social:
     url: https://t.me/posetmage
   - platform: twitch
     url: https://twitch.tv/posetmage
-
-feed:
-  title: "PosetMage"
-  description: "AI Synchronizer, loving ACGN"
-  author: "PosetMage"
-  email: "mail@posetmage.com"
-  url: "https://posetmage.com"
-  output: true
-
 
 # Build settings
 remote_theme: jekyll/minima

@@ -28,4 +28,4 @@ However, to unleash the true potential power of magick, a deeper exploration of 
 ## Sub-brands
 * <a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> LatticeMage</a>
 *  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> AI-Mage</a>
-* <a href="https://alchemymage.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_b.png" Height="32" /> 鍊金Mage</a>
+* <a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_b.png" Height="32" /> 鍊金Mage</a>

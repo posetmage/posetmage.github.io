@@ -26,6 +26,6 @@ However, to unleash the true potential power of magick, a deeper exploration of 
   * [Google Store - PosetMage](https://play.google.com/store/apps/dev?id=7892248912414385648)
 
 ## Sub-brands
-* <a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> LatticeMage</a>
-*  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> AI-Mage</a>
-* <a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_t.png" Height="32" /> 鍊金Mage</a>
+* <a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.webp" Height="32" /> LatticeMage</a>
+*  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.webp" Height="32" /> AI-Mage</a>
+* <a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_t.webp" Height="32" /> 鍊金Mage</a>

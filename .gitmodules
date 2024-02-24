@@ -3,6 +3,11 @@
 	url = https://github.com/LatticeMage/Jekyll_includes.git
 	branch = main
 
+[submodule "assets"]
+	path = assets
+	url = https://github.com/LatticeMage/jekyll_assets.git
+	branch = main
+
 [submodule "_layouts"]
 	path = _layouts
 	url = ../posetmage_layouts.git

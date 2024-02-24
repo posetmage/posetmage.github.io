@@ -22,7 +22,7 @@ title: PosetMage
 email: mail@posetmage.com
 url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 slogan: 国士無双
-
+repository: posetmage/posetmage.github.io
 
 feed:
   title: PosetMage

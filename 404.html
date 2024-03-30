@@ -40,7 +40,7 @@ layout: page
 
   // Function to load the URL mappings and handle the page content
   function loadAndRedirect() {
-    fetch('/urlMappings.json') // Adjust the path if your JSON file is located elsewhere
+    fetch('https://raw.githubusercontent.com/posetmage/url/master/urlMappings.json') // Adjust the path if your JSON file is located elsewhere
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');

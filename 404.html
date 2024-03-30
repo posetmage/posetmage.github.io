@@ -5,9 +5,16 @@ layout: page
 
 <style type="text/css" media="screen">
   .container {
+    display: none; /* Initially hide the container */
     margin: 10px auto;
     max-width: 600px;
     text-align: center;
+  }
+  .loading {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+    font-size: 2em;
   }
   h1 {
     margin: 30px 0;
@@ -17,9 +24,48 @@ layout: page
   }
 </style>
 
+<div class="loading">Loading...</div>
+
 <div class="container">
   <h1>404</h1>
-
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+
+<script>
+  // Function to extract the shortcode from the current URL
+  function getShortCode() {
+    return window.location.pathname.slice(1); // Remove the leading '/'
+  }
+
+  // Function to load the URL mappings and handle the page content
+  function loadAndRedirect() {
+    fetch('/urlMappings.json') // Adjust the path if your JSON file is located elsewhere
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        const shortCode = getShortCode();
+        const realUrl = data[shortCode];
+        if (realUrl) {
+          // If a matching URL is found, redirect
+          window.location.href = realUrl;
+        } else {
+          // If no match is found, display the original message
+          document.querySelector('.loading').style.display = 'none'; // Hide the loading message
+          document.querySelector('.container').style.display = 'block'; // Show the original 404 content
+        }
+      })
+      .catch(error => {
+        console.error('Failed to load URL mappings:', error);
+        document.querySelector('.loading').style.display = 'none';
+        document.querySelector('.container').style.display = 'block';
+      });
+  }
+
+  // Call the function on page load
+  loadAndRedirect();
+</script>

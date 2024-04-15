@@ -1,0 +1,40 @@
+---
+layout: page
+---
+
+<div class="container">
+
+</div>
+
+<script>
+  // Function to load the URL mappings and handle the page content
+  function loadURLs() {
+    fetch('https://raw.githubusercontent.com/posetmage/url/master/urlMappings.json') // Adjust the path if your JSON file is located elsewhere
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        const container = document.querySelector('.container');
+        let contentHtml = '<ul>'; // Start an unordered list
+        // Loop to append all key-value pairs to the container
+        for (let key in data) {
+          if (data.hasOwnProperty(key)) {
+            contentHtml += `<li>${key}: ${data[key]}</li>`; // Each key-value pair as a list item
+          }
+        }
+        contentHtml += '</ul>'; // Close the list
+        container.innerHTML = contentHtml; // Set the HTML content of the container
+      })
+      .catch(error => {
+        document.querySelector('.container').innerHTML = `<p>Error: ${error.message}</p>`; // Display error message if fetch fails
+      });
+
+  }
+
+
+  // Call the function on page load
+  loadURLs();
+</script>

@@ -51,6 +51,12 @@ social:
 # Build settings
 remote_theme: jekyll/minima
 
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
+
 minima:
   skin: dark
 

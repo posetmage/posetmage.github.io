@@ -16,7 +16,7 @@ layout: none
     </ul>
   </li>
 
-  <li><a href="https://homum.posetmage.com"><img src="https://posetmage.com/Images/Icon/HomunMage_t.webp" Height="16" /> HomunMage</a>
+  <li><a href="https://homun.posetmage.com"><img src="https://posetmage.com/Images/Icon/HomunMage_t.webp" Height="16" /> HomunMage</a>
     <ul>
       <li>focus on AI related topics such as AIGC</li>
     </ul>

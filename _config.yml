@@ -23,31 +23,6 @@ email: mail@posetmage.com
 url: https://posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 repository: posetmage/posetmage.github.io
 
-feed:
-  title: PosetMage
-  author: PosetMage
-  email: mail@posetmage.com
-  url: https://posetmage.com
-  output: true
-
-social:
-  - platform: envelope
-    url: mailto:mail@posetmage.com
-  - platform: linkedin
-    url: https://linkedin.com/in/posetmage
-  - platform: youtube
-    url: https://youtube.com/@posetmage
-  - platform: facebook
-    url: https://facebook.com/posetmage
-  - platform: twitter
-    url: https://twitter.com/posetmage
-  - platform: line
-    url: https://line.me/ti/p/Out6J_7uOq
-  - platform: telegram
-    url: https://t.me/posetmage
-  - platform: twitch
-    url: https://twitch.tv/posetmage
-
 # Build settings
 remote_theme: jekyll/minima
 
